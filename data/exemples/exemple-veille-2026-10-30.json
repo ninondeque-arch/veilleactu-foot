@@ -1,0 +1,1541 @@
+{
+  "id": "exemple-veille-2026-10-30",
+  "date": "2026-10-30T15:55:56.741Z",
+  "exemple": true,
+  "regroupement": "ia",
+  "nbArticlesBruts": 663,
+  "sujets": [
+    {
+      "id": "T1",
+      "titre": "Mbappé en Chine : la polémique se poursuit",
+      "resume": "Malgré ses excuses, les critiques persistent en Chine ; un ancien sélectionneur de la Chine et le député François Ruffin réagissent.",
+      "articles": [
+        {
+          "id": "A422",
+          "titre": "Mbappé : pourquoi ses excuses ne suffisent toujours pas à apaiser la colère en Chine",
+          "media": "Foot Mercato",
+          "date": "2026-10-29T23:00:00.000Z",
+          "url": "https://www.footmercato.net/a9072759980279917540-mbappe-pourquoi-ses-excuses-ne-suffisent-toujours-pas-a-apaiser-la-colere-en-chine",
+          "resume": "La polémique autour de Kylian Mbappé est encore loin d’être terminée. Malgré ses excuses publiques formulées en français, en anglais et en mandarin l’attaquant du Real Madrid peine toujours à apaiser (…)",
+          "requete": "Foot Mercato"
+        },
+        {
+          "id": "A352",
+          "titre": "La Chine met un gros coup de pression au Real Madrid après la polémique sur Kylian Mbappé",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T07:30:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1hGWlZfRUp2THdMOGUyVXllcjNKRzVRRUl1bzRqRE0zNUdxVUo3VXFuMzYzc1RWRjVJUEdtc3lZRG5XQUlUOGs3VVg1N0Jaa2xkb3p1Z0NiczFhSExudVpMUHNud2V0MTNfTldEQ3RXMG1IRTFIYjRjTDZZZkF6dXVyWHJmeUFKU3ZsZmJUSkx1d0xxQkZmQ181UzdYU2g0YVVEcmkxY04zb0RHTDBMU0QyaUZ2czIyRkVHU1VFcktndkV0QkVlLWxCc1k?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A493",
+          "titre": "la Chine ne lâche plus Kylian Mbappé",
+          "media": "Foot Mercato",
+          "date": "2026-10-29T16:14:24.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEhabmdLd2lVbnE2d295dnBoOV9FaWw4SlVGdlhiSFJENGxCR2ZONl9mVWlCTXFoYmRnWk1KQXI4VWVORjRFcXhSa3AxRU1JWG4xVzA5V0otMzB1Q2NwNlN0MllxWG9Ma3h4cmVHNEZqcnROMlRNTGJTNWo1bmNCYjh6OGdxVElSc3ZEN0UxQjF2N1YwN3AtRmhHWjdCbkt1RXFR?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A258",
+          "titre": "\"Prends de bons avocats\": le conseil d'un ancien sélectionneur de la Chine à Kylian Mbappé",
+          "media": "RMC Sport",
+          "date": "2026-10-30T10:18:30.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTmtuUkxtejk2NjRNdUZldXVCQWo5bnNGUEN5bW9ibkx0cjdBWm9xMVJ3aVRQdUlZZHQtYnBQRE5Bd3BfYmtzY2pKNWcybHkwcWtGUVZqUlRjYnJGd19VY0VxY2NlMThDaEhWcnMzem5hMUJra21BMDJicTAzdDEteGNKT2Q2SDJqN25POUJwODYyNlBtVVhhT3ZDOEZRcDNwYjRCeUphcWFJVFVzaTJtejM4VEswYTllZ0U4M05yU0trYzg0UVU5YTJkQnlGbDlzUGFEb2Z6anZrQVRudUR5VWRzMkFCV2pWYXlBQ1dBWQ?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A114",
+          "titre": "La grosse mise en garde d’un ancien sélectionneur de la Chine envers Kylian Mbappé",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T13:33:05.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVoxSF90WGhySWVtR3hXdjlTNVN6M29GYXVPVTFxSk1nbkMzaTc3SUVfYlU4cjZmQVJWXzdUSF9qNGtfYk9nd3FjeDdZZklLRmdkVEw5NHRfRnJQa09Wa0JwWlU4bnNVSVRYcXlmYTlCVERfVjhmM3I0RkVOS0tFMVFGNGxHNUdYQmpMNkFxYTJCX0JJZi1oUVduQWQ1cHNhWGltUmNxR1luZEJ2MzM4b1QxME5kdUxBcFdfZmdPLThCblVXXy0xbjJn?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A300",
+          "titre": "Polémique Mbappé en Chine: François Ruffin défend l'attaquant du Real Madrid, victime \"du capitalisme et du nationalisme chinois\"",
+          "media": "RMC Sport",
+          "date": "2026-10-30T08:58:22.000Z",
+          "url": "https://rmcsport.bfmtv.com/football/kylian-mbappe/polemique-mbappe-en-chine-francois-ruffin-defend-l-attaquant-du-real-madrid-victime-du-capitalisme-et-du-nationalisme-chinois_AV-202610300352.html",
+          "resume": "Député de Picardie et candidat à l’élection présidentielle en 2027, François Ruffin a publiquement soutenu Kylian Mbappé après ses propos jugés polémiques sur Mao Zedong. L’élu a regretté de voir le footballeur être obligé de présenter des excuses à cause du pouvoir chinois puis a rappelé que le dir",
+          "requete": "RMC Sport"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "titre": "Le Havre – PSG : Paris avec un groupe remanié",
+      "resume": "9e journée de Ligue 1 vendredi soir ; le PSG se déplace au Havre avec plusieurs absents et de nombreux remplaçants.",
+      "articles": [
+        {
+          "id": "A1",
+          "titre": "Le Havre - PSG, Ligue 1, match en direct le 30/10/2026",
+          "media": "L'Équipe",
+          "date": "2026-10-30T15:54:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUNGb2xVY3FxcXhucFUzVk5sVUpCamtKU3BUa2NJWThzYnI4VkRuYWtWSHdmVGRGMnhma3VPdzc2R2RfajhpYWdkRzJCcUJEUzkwZ3RCOGNKaXhSLTM2US1SaXRNVHQxWXhHMExWX0lPSXlpd3htajAybWZSVHdxQXVERGN2NU94TXd4a25pZlo?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A29",
+          "titre": "DIRECT. Le Havre-PSG: suivez le match de la 9e journée de Ligue 1 en live",
+          "media": "RMC Sport",
+          "date": "2026-10-30T15:20:00.000Z",
+          "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-le-havre-psg-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live_LS-202610300589.html",
+          "resume": "Le Paris Saint-Germain se déplace sur la pelouse du Havre ce vendredi soir à l'occasion de la 9e journée de Ligue 1 (19h). Un match à suivre en direct sur le site et l'application de RMC Sport.",
+          "requete": "RMC Sport"
+        },
+        {
+          "id": "A252",
+          "titre": "En direct : Le Havre - PSG (0-0)",
+          "media": "SO FOOT.com",
+          "date": "2026-10-30T10:30:29.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DVHZTcGk1SXJVTHN4SVFZRkljQUMwbGM4YUhBQnVBY1JJVGtqSTFMUm9NZFk4LTlaNDNFNXhRazQwZFljS0h2VlBwdjg3SEM4NDdid3hKWlNHRzZIVGxIaHhOYjBrMHA5UDZF?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A363",
+          "titre": "À quelle heure et sur quelle chaîne voir Le Havre-PSG en Ligue 1 ?",
+          "media": "L'Équipe",
+          "date": "2026-10-30T07:10:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTJFVTRyeC0zbzhFRDVvcEMwTnNnR2JJVmFYbEpDWWlpeXlLd0pFM09Oc3Q1M1k1eXR5cWpldUVSYkJXeDJBeTZpLXU0MlZ5R3dqczZkNDhUb0FOLUR5dUpiUm5BQXcwam1BME1keHItdWFqWG9WMmJodmFHSGlfb2g1SF9hWVBRVnpianBhemwtamRjWGlVRDJjZXBRa3hPV3lNZHI3ODQ3N0dUWnZiUkcwYmZYZw?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A272",
+          "titre": "Le Havre - PSG : à quelle heure et sur quelle chaîne voir le match de la 9e journée de Ligue 1 ?",
+          "media": "Selectra",
+          "date": "2026-10-30T10:00:11.000Z",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xM3NaSkdGQVJIVlB2MlBEUUgwVkx6VHpDTkNtcjY0N1l3ZWV1X2VnOWd3UzVYczJ4dUNpM0ZlSGt1N0xBNEVHR3lRZTB2S19IYmFiSHhwWlNJNGNLWEVaLTdCUm1YVEFhcU52bUEwM21yVE40OTNVLUVFU3Y?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A397",
+          "titre": "Le Havre - PSG : sur quelle chaîne et à quelle heure voir le match de Ligue 1 en direct ?",
+          "media": "Ouest-France",
+          "date": "2026-10-30T05:40:01.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYXgzeThxbWJZdzBxSlF1VjFmdG9TMVdPakZCZTRTbU1zTmNOb2ozbkoxcTh2alIySjl6eTB1NWRXUlhWYjdHLVBHcVcwdzZwODU1Q1BGeUpQWmZMWFNvXzR0SF8wOXA4T3pTXzJnNFNlazVZTjNaRmJIM0xQU2JVOVpLczRvdWRSeHYyS1VHNnNiY3RrMk1sR3Y2SVhNeE5JT0NUSDdVZ01UZ0RHQnJPX0FsRmtUdGdvUGNyeXdBZTdhSGtsVjZSS2VEOFU4UV9HanNNNXpIME1aLVJEUnFYS3otRldZZ1BsOFowMzk0VnBhMkpvaTJnZFJhMnJOR2VrYUE?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A407",
+          "titre": "Le Havre - PSG : sur quelle chaîne TV et à quelle heure regarder le match de Ligue 1 en direct ?",
+          "media": "RMC Sport",
+          "date": "2026-10-30T05:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbjVPU3Bsa0p6b1JTUUZGTk1PaFpleWsxM3RUbUJjX1RQQktFSFJtYlg2SWEyMFVZOHRic3ZSWFN1V0dMVmw1YnpDZEQ0QkpEeUNlYm1PV3RuTUVxMjNaQzlJeUl5QlVSRzdfQ1ZQQmtaVWliQ2c1MGEtLVgzOUdzb2prVFkzcWhvYUtWQUMwZk1mMUFaNFMtZnIyN3R2aTJqWTktQWFqTmJyUXBIOW9yZ20yakZXVDBjajcwNjR5ZUFvUUFsTDJETmUxSjg1cG8tR2FBN0h6TTN4RlF0VXNfYklKd3J2WHdZMGNn?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A220",
+          "titre": "Le Havre – PSG : à quelle heure et sur quelle chaîne voir le match ce soir vendredi 30 octobre",
+          "media": "La République des Pyrénées",
+          "date": "2026-10-30T11:11:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb21NdEZVQXo4OHdVcldtaThpTTk5dHdSNlJkTFZoUVhGZzlZcll6ZE0wcGRfbEtWTXVTSlh5ODhMalFEX1ZJT2xhRVk2cVdkM1h6RmlqdmhzMHhBMlhpdnVjZG9iRTNjdEtpQXNacGtqYkwzSnBtSUFmcnM0LWtETHotenpWMHNPdGcyclFQdWk0SVJPNUpXaC1Ba0dFYkpZM2hacEJPeXJJUmlyVmRseGdHN2F3VWVPdmFDVWNHMHpFQWtwTVpVZlpvckhDVThPeko2aTFDUnZOa0FTOWVoaTVfdlY1Z0dyNzNOSUJB?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A188",
+          "titre": "Le Havre – PSG : les compositions probables pour le match de ce soir vendredi 30 octobre",
+          "media": "La République des Pyrénées",
+          "date": "2026-10-30T12:05:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVnY3NG8weV9IRURrUnVuRFgtcEMxbGxoNkFnT0NhZzVKMlZZSnRWSVE0TTFPQWN6VkpaazJnWEFuaThLVk44anNTa2tMOHVJem9wT2dSNm1paXhMVGpEczh0cFZPRmNiQ1k0N1lORHh3X1Zlcks1bWZES2FSSnF3QUNIYURGLThhOElfRldFN3VfTFNXUGd3Y29MQ0p3OElPaUZiQ1V3RmNzMzF5QmlKNTJfZWRmWnB6UGFFUXJMOHh5bkJLWWM0ZEpPNXRpaWFhQVNxZm05X2p6a2FzSHpwUFB3eDRWUQ?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A368",
+          "titre": "Le Havre – PSG : où regarder en direct le match de Ligue 1 ?",
+          "media": "TV-Programme.com",
+          "date": "2026-10-30T06:53:23.000Z",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLW5kRVpQNTlhRVhyZ19kVEYydVBJOGJJbW1hQm9GeWk3LXVQSmNDTnlhOC1OZDZ4dlhTaUFBN29waGl0dkFFVVdUUEhTSThGYUNzd2Y1dkVIbHczQ0xleWhlUmxTaFlPZ2lPZ0J4dXRVeEc2dFV3aUtLY256a0QtOGhnTG95YnVZMWtETGpFY3RkWUE3aGc?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A75",
+          "titre": "Le Havre / PSG - Le groupe parisien convoqué par Luis Enrique",
+          "media": "Canal Supporters PSG 24-7",
+          "date": "2026-10-30T14:15:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUxzTExEMTNGUld4WURIRjg3VnV2VUd0S1VkaEVYRDhkaVFPdkJnZzk1bnRvdEdiNktab2JaZ2RiU3BaeFl2RnpDa3lNRlhpS3lBUU1zd1B6VE5OWno4VExmNXNBUDByX3lHb2VwdTZ0ZTlBV0VPUlQtZThpRWgtbkRWaXVyRDhZOEk4WmIwTXVraU3SAZgBQVVfeXFMTWppSFZzWHBja3NHZ29vYklsd0doRjFURTRVZV96V1oyclVwSUtWNEhPYUFLX0RNdkRCaXBVUG51RzBsbW05eFIzaUJwbmk4OHRRbXFRU2FKUWJlVmVyOFRzMlNERDdDamN6LXdIOUdFMHhSVWdmZ05nTWRVZHhDd1Axb1BUVDdDLVUzT0JEemZQeVdHeEJEVnk?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A154",
+          "titre": "Le Havre / PSG - Les compositions probables selon la presse",
+          "media": "Canal Supporters PSG 24-7",
+          "date": "2026-10-30T12:53:27.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZXNRb1VudGxOQTYzWlNxaUdwVGxjT3NsWlV2OTJEU2FGVnRIRjIxVmxyRjg4VnFQVWpJYUlQUTlYSGhSSTh1Sm5CSlc2RllUX2k3WEplZi1HWFhNd0FnNDBCc1ozNENKa2N4RksyZnhxQWZSZGVTV1dCRXQtYlRHQnBDNmRESWgzU1ZNNmtwVmbSAZYBQVVfeXFMTV8wNVJpR3ZKN0ltWml1MldtVFNmb3NLVHFydV84UGh4WExSdXBFNEw4REVSenVRdnNJM21wYlRseGFWaTNNbzdJT2ppcXg0TU0zOU4tZldkOEMzcmNRa21OZEZXdlhZWlRkWnlsSlZTZE9kTng4MW9KY2J4RGlibmR6WkxmQlozSmEwMzJ0NGdCOUhyTkpB?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A124",
+          "titre": "Le Havre AC - Le groupe du HAC convoqué par Didier Digard pour le match face au PSG",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T13:21:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTDdfWVFQSnlMcVZ6Nml3WWNIWWo5UHZBVmFmMzduLWVaUDZwWkFtbzNHNHQ0ZW45T2prZlA1aWlpeDRQVjRUYVc2UzBsOGdvZjBoMWczbTBuT0toSmJnZWhZTmV5T3prWnBhWERYbGxySmZobS1VUzlGSkNWZk9Kd09heHpvTV93ZXJPQ3dMXzBhaWNxM2ZRV1hKdklNVUxpeXFZcHprQUFyOWFMWjFGT01Gc1k0SHR6cHluR2FqS0lmTEs1bmxiUHptaWx3VHFncUJOWUwyWWt5UQ?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A123",
+          "titre": "Le Havre AC - Le groupe du HAC retenu par Didier Digard pour le match face au PSG",
+          "media": "MadeInParisiens",
+          "date": "2026-10-30T13:21:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSnNTd0kxMkxQSVZZUzRTNGlHOVZHbVhpVWhPZ1NYQllNb3hkeUF1Wm8wYTFxX3Q1SlgxTHhxanVtdHFXb3prOHlETk1hdzdyUWJkRloxSE9tdTB2dEZlaWhOcjZhUzhmcnFqc0p3RGt4dzdiRjZEeG5QYVJkRDdXc2taNGFXWXk5SUZONkxZekluVVhWNVZnRHprSjVpaHpqVGdFckM3UmFrN21HSUFGZ3dTdVF3QVJqTERmSUdrWENvVExHU3lmSllQMXItYWdETWdQVjIwQ3ZWSjFJU1E?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A227",
+          "titre": "Le Havre-PSG : à quelle heure et sur quelle chaîne TV voir le match de la 9e journée de Ligue 1",
+          "media": "Le Parisien",
+          "date": "2026-10-30T11:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMVd2dGtkUUVFZzlsaXFMaTZ6LVl6REo0aGxVYktnWGhNMnNwcVY0WXBfQ2RSNlZNM0s4dFl3UXlTODVNNGdzbTNWZlJWX1A5LWNxM0VhVlZsQ2lPMHVtVW5VcGZUZ0o0WmlNTm9WVl8waTQwYktLZmpZOENPYVowZUZhQ1BqTEtYMFBHandwMmlZZEtOQWZQVnVFNEItNEpfd2MxUHhJRzZiZGhTNkV3bjVHWEJyRnNUaDBrSkNyNGJwYUdXcmlVNnoyNGIzMEZwNW00aDFKWUJfWmFWUDA4ZXd0X1EyeUVJUUxtX05uZVBoUXNYUE1lek1uMmg4T0UtWU1FWHFjRTRwUmhYRHJmbW9pQQ?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A232",
+          "titre": "Le Havre-PSG : le groupe des 21 joueurs parisiens convoqués avec quatre absents de taille",
+          "media": "Yahoo Actualités",
+          "date": "2026-10-30T10:57:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sTUZnVXFfbW10MXpTTTBzdXdmTHBCbkhaYlJXandHbW9PbGYwalZVT0Rtb0R6YTVvV1p4UVNadUlqWnBKS29fbWRqcjZrM2dHZnNoZERmZkY5VTYwSlhjQ1pIM1hvVnNyV2RkeUNKU3NkdjhXdHJv?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A253",
+          "titre": "Le Havre-PSG : les compositions probables du choc des extrêmes",
+          "media": "Foot National",
+          "date": "2026-10-30T10:29:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3JZdmMxaXJoSVYwMXZaa1FPbjlCY25fcFhxa1ZCaFdkb0JjS0phMVJEMWpJRURid3VrX0lGc0ZBRmdETk40SU9DZlhDZEJSTGRjb21VSE1WN0tEQy1Ib29aLV9oN0JrRDNZcnZkTlI4ZzJXZ1NaeG5rN1BYSlNJQ3llRWxJLUxVbWJaNGp5UFdhbFRla3lDZEpseDlBR0pDZ0lYeDVR?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A382",
+          "titre": "Le Havre-PSG : Sur quelle chaîne TV et à quelle heure voir le match de la 9e journée de Ligue 1 ?",
+          "media": "20 Minutes",
+          "date": "2026-10-30T06:22:37.000Z",
+          "url": "https://www.20minutes.fr/sport/football/4258789-20261030-havre-psg-chaine-tv-heure-voir-match-9e-journee-ligue-1?at_medium=display&at_campaign=149",
+          "resume": "Vendredi à 19 heures, le choc des extrêmes oppose le HAC, lanterne rouge, aux Parisiens, leaders depuis le week-end dernier",
+          "requete": "20 Minutes"
+        },
+        {
+          "id": "A238",
+          "titre": "Le Havre-PSG: Les Parisiens avec une équipe B",
+          "media": "Sports.fr",
+          "date": "2026-10-30T10:49:13.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWY1czQ1TVY4ZW94a3ZZWENZcHpFczRqb2ZZQmFnZHZtOUFYbG4zcURSUHVmc0hhUzlWU001eDFQcTdFblg0TnlfNXozVmVQN0ZnSHdZbUdQaVUwYjhhY0Y0dlc4VkNreXZvajl4WTR1ZjRHZEp4cC1XVlp5TVczVGhEdUxOZlRLZ0QtNS1OYXdSQQ?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A350",
+          "titre": "Le PSG en quête de victoire face au Havre pour la L1",
+          "media": "Sud Radio",
+          "date": "2026-10-30T07:37:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM180dTZOZEdCS0k3cjRvT25iMTc3Z1RJbE1uY3lEbnpBS0ZOMU1tVDl5OGJ5c20tdU1qcF9lSmRiWWlEc1cxOUJvSk9kQmpvLUk1aFpNTFFIMnBJc0MxYkNIVTBCaDAwaHQ2RTcwNnJOMkl6SXV2OGt5RW5ETkVLcjA2UHZ1dlhpZGVDYzY2WEtmNXVLdkE?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A337",
+          "titre": "Le PSG face au Havre : les enjeux du match",
+          "media": "ici.fr",
+          "date": "2026-10-30T08:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejVJZ3NDM1Z3QVp6Z1hlV19XTGhvT3NPRk5ldWpCSTQzb0R5MGFBVVpFZ1NnSXVKcmp3UFFmLThhd1ZwdVkxMnZ0ZkhVNFp5NmV1LVVaTnVFcWdWYlRVWl80dWI3YUxWV2hHMHd0cEk0dFpkZi1JMWtkV1lVVnpoU1F6WXdUUGdSSTdjbkJ4VjJjdl9KSGw2SlRKT1dodlRLWjJpZ0FzdEpRZjdUZ1YtQw?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A355",
+          "titre": "Ligue 1 - Le Havre AC - PSG : les compos probables",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T07:25:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEJYdmc1ZHRSOE1GMGNzMUNSQXgyNVlZV2ZZSUpxVmtXT29meklBWml1WWtkRmQ4cHM3US1sVFlybW5JR1d0WUpjYVVPanoxWXF1TkdudE92QTkzODV5aWdEOHA4Y0RWUGV0NlpoNE9zY0Y0Q0hGYm5zQlZxbmRSV1hrQ2RGZ1ZpSjBxVFI5ejlBZ1BZSm43ZzZUU1liN1pFQnBkTF9qelk?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A365",
+          "titre": "Ligue 1 : budget, classement, dynamique… Le Havre-PSG, le (vrai) choc des extrêmes",
+          "media": "Le Figaro",
+          "date": "2026-10-30T07:02:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUxiQUpKYlVnZm1HVmxrVTRYemROeWhnRXVJclNxd2lIelNEZ3Z1VE1hQ1BsSWxENHNKc3hpNGN5MHhQa01KSHVWTHJWYzZvUG9yZktUUUZYQVhONnh1aGowSXdfTGdGbHN6RExvc0hiSFJPSkF6MXRaYmxoWEN3Z281d25xNXRSRUY3d1JsNHVUQ2ZkOU1ERVNjeFpRejV6LTFsZlB4cWU5MGZPT0pIYVp2bkVOa0ptU1NzRUU1dHNxTGxFNHVIazFhRQ?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A259",
+          "titre": "Ligue 1 : le PSG au Havre avec les remplaçants des remplaçants",
+          "media": "www.433foot.fr",
+          "date": "2026-10-30T10:18:06.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2hGTEtVOFlZY0NwODhCcm82cEw2dzN2VnJmcGZhcWp0Q0VUTkNpeUhSQnl4dnBVWEktUjdYUF9STU5fNTNyenBIZmxqNXJJZENISndTUUV1ZV8wamtIYm51elJTUHRfME9POWphVVM1MDUyNWlYRVlSdm1MYmpwSHo3aVUySUdfdklIcg?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A426",
+          "titre": "Ligue 1 I Le Havre - PSG (9e journée) I Paris, un fauteuil venu du banc",
+          "media": "Eurosport",
+          "date": "2026-10-29T22:48:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV042YVFlUmdMdVNWdlBQS3FpSHNHQ2l5TThTS21iRmJuRFFjRHNXQWh0cXViMHBnWHFpRW9wRC1zeTQ2MG43aDJMck9td1NNZmI0Wjl0bU5EMlkydjJWSXdULWNodkdTdkthaFFCcm9nVnN5TnZablJ3NTVqVXhZSzB2TTNKV0U3cFFDUFNWOWlPR0hqekdiOC1aU1RLc3FZbGI5ekQzbk5SWFRQSUdWWnQ5V241QTk5ME12WGFHWV9ab2w3QUhwakhTU0RleF9JM0ZibWJkbkVtZw?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A30",
+          "titre": "Ligue 1: Le Havre-PSG, à quelle heure et sur quelle chaîne voir le match ?",
+          "media": "Sports.fr",
+          "date": "2026-10-30T15:15:46.000Z",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzdYU3pOb3U1WU9LRVJXbDRVYllCYUgwcUdRdXNMaTROTUpDWFZHc3JkSHVmZWdTT3NUR3JEWVpaZ3FTVUVVMXhOTlA1dEVRTkxPa1lKUkN5LVVXRnVWSnRVYUlsY09GaThMeDhPZU1WWi16Z3NKb20tMGVsZlV0MUE4X2lQN2cteVZLOVZkNGhVWGViblNIT2NXX2xaZm43TWZnX0RmZ3hGcVRXMk8yY09GQUU?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A268",
+          "titre": "Match : Comment regarder Le Havre/PSG à l'étranger",
+          "media": "CulturePSG",
+          "date": "2026-10-30T10:05:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTRzdEZpVjJSU1h2M1VUMXducHZRZVVmY1FtYXNlLXAwQmZoTktxdmdyMkxTOU4zbGE5RzhaVzloYVBiY3lCUXF5bnRaeDBwTWtEOU5janJHWVJWNWhBaFNzb09VTEczaUtXa1BEQkJVb1NxUWczd1FDWlp1RnVUSE5XdFlxUjNNRDF2Y0YtNA?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A275",
+          "titre": "Match : Comment regarder Le Havre/PSG à la TV ou en streaming",
+          "media": "CulturePSG",
+          "date": "2026-10-30T10:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHJaSDVYcVFxLUNVcTdjV3pSNUJrN3Exam83QXJnRlE3VWNrbk54dnBlZDVfdHo3SUJVdXMzNlVEbUFYdmZvaW14ZFowVHEtREptNldMTngyaF9FTUk5cUdxcDFPU0RKZmtrZFpyN21QMjVaS3ZIcDVMbk15MXNHenlrdGVsajBIdGtOZ0ljbmExTkt2SG53aGpscktJREo5TUE?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A248",
+          "titre": "Match : Le groupe pour Le Havre/PSG avec 5 absents, mais une bonne surprise",
+          "media": "CulturePSG",
+          "date": "2026-10-30T10:37:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2kxMVo4QVUxNWpwTGF6QWZwRXVub2hxUmY5T1paRXlBVExRb01LYlZlOXp1UjBhcXBSR2tYZHFvdW5wWWRUbWdzY0RiV3ZmSnlLUFRBVlpFUURVdUlOWTdLaC1GZmVibDZHa0ZhcVJVU1BHT3lEU2c3eTM4emtab0hmcmhZS3NSUUMyT2haaDlWaElReV9URmRsNVpkSG5mdkJBVWJuTEF0SEFvZXpV?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A357",
+          "titre": "Match : Le Havre/PSG, sur quelle chaîne et à quelle heure regarder le match",
+          "media": "CulturePSG",
+          "date": "2026-10-30T07:21:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWFrWGU0VFZWMF9yTHUtTFNmSXhIcVdpaFl3T01qSnhpMGZrTmUzYmZMa3VpbVFaMFpZb004by1BSVM4N0FSdEJIeHpEVlFJQlEwRVZQTy1tT3NHYkdFSkY3Q05SMkdDWWdfaDJWaTFBVldqUUpPUmczNjl1T2dEcEtNMXhTRm9rRFV3a1htaW94cW5DSDUzTjVVbjE4TjBMZWFwOUQ3ck1oaVhKUm80?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A364",
+          "titre": "Match : Les compositions de Le Havre/PSG selon la presse",
+          "media": "CulturePSG",
+          "date": "2026-10-30T07:10:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkF1SXpnOFBIYlNpbVhWZVVGUE55Zy1kREM5UXRGSklVUzhYejdkWXJuZEdhbkxaYUJfOS1XTUhWd041UVRPSmxhZG83WFhoenA3bzhjYkhIX1hrQUpiVms0RDhhOFV3UkVBbXlnaDhBQUtwV0ZObVhhTVBWZ0hrTkFjUnVMZUhtSGtxTkNpQjFPbnVDbVY4?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A247",
+          "titre": "PSG : le groupe convoqué par Luis Enrique pour affronter Le Havre",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T10:40:23.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGNHYTdhZEhNRldxSU8tTk9lc0RCUkxfT3VXbGlobVRocXZ6YVFKdnNuMkw3LUhOOUVnZU1wV3BZQjk0MDAtR1B4UEM3WjVfakw5SHkyeTFHN0wzV0wxTHpNc0lWUUhqTjJKczBZcE5SZ1o4anNJeWtuYmNKT1htd20tUlZFQjR6TkxIYllZNHhnZkxhbmxfWUJNZmhCdGZ1R3ZldlpoTkcyYmdMd3dBakt3?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A249",
+          "titre": "PSG - Quatre absents dans le groupe parisien pour affronter Le Havre AC",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T10:37:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2pLd0NESTh0YkdqbkdIeXBBcGswU183WHlucFhadFpFT2p2R1p3Rm9CM3F1TktGb2NCS1J6UGY0djJoRWxRUUZOTDRfTVozZnVXbFItWklSU3NDX0REMU5jNDhZUTN6OTFjYzdjZlhPajFTZnpfMGttcjRzWEstZGkxanhzQ1hZRUJLczVmYjN1bExGYVU5SzNhSzFOdWtWMEZkN0Yzd2xEcjN0aFRSOE5NQ2VfeG5HWEtKUHNBZms3UTJ4NGdzVlhn?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A234",
+          "titre": "Mika Godts bien présent dans le groupe du PSG au Havre en Ligue 1",
+          "media": "L'Équipe",
+          "date": "2026-10-30T10:53:54.000Z",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVBNZm9KOTFENzFDRFktUVNOZHFmY3lYWlliVlBmcTM2cDRJbUdXTVV0OUJrczB2cEx2OVNUTnBIWF8xT3RpRE9CSWJxd1ZDOFRMZFN3LV93UDkta241ZjYtQ29jN1ZURGE5NjZlZi1LUi1hUDJ0ZGxNV0gxZS1ybkZTZFJTZHNUUXExaUZhN0Roek1kSUc4ek5DVGlhQThQcTBySGRQMzJGbEdTQVMwR1Q0Q2FQaVk?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A210",
+          "titre": "PSG : Godts bien présent dans le groupe",
+          "media": "Maxifoot",
+          "date": "2026-10-30T11:26:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeElUekV4N0R3WG1XME1tVVRTbU1hT3Q1dEc3eHdxbXhSNF9QemlzVzRHWTBCMjRka29OUFJvUTFWMEEtakpFd1NpOW1VWDVuTWtvZ0o5VDlscW12YVhjYjFJek1Mejh1NFdQVzFRbk5seEZ2UHJqaS1UVEk2NUMxcDBkdnDSAYMBQVVfeXFMT1J6TmJMMjJPczQ5YWZaWmZoMG5lNkJ3dTRVNXNMYmIxZnFwQWJDOTI1VDAxcGJ3ZjVVNDhlQnNVc2ktWVVWZ0lNeWFheFg0eDNTdW0wcWRXQTZhY01kcnlSUlZ3THZuVXAzaDVOTi1ReEtTMWdiWnRQMHNjRFpQUmpMZzQ?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A156",
+          "titre": "PSG : Mika Godts fera bien le déplacement au Havre",
+          "media": "Le Figaro",
+          "date": "2026-10-30T12:49:39.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGptemQ2c2ZuUmE0MVp0R2lCRE1LUEZ3Z1BjWkc2WFY2RDQ5SUVpNl9DY2VUazhnWFRaSXllRDNTMHZRMVEwZGFTZEZIUXozYVo0dXFDeVlfYTE3WUVNZ21Cc1loRk1xcjZZX3F5cEtNWnJic1NWZ2ktWmFodkRqZldPR05EOFA5eTdCekdNd016S3NTbnZJY2FRVVY2dzVDakU2bjdFTU8?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A45",
+          "titre": "[9J-L1] Le groupe du HAC avec Sasso mais sans Pembélé et Mpasi pour la réception du PSG (Officiel)",
+          "media": "Les Titis du PSG",
+          "date": "2026-10-30T14:55:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN0lFeVJsQ1lVa2RfZVF4N2dXQjE3N1VfNGdqVzZRcVdaUTVJOEU3Wkh5TEFYMHhBZlRKNThvZWlQY1dsc2JPLTJ1TlVMcmNvaUlMZjVEMkZTTHA0WVZHVnpRcUJJWG9BVjRUcXU0aGxuU096a1hDekpCbXlla1M5RzhGMjBnTE1EMUVqQjFiTWh1N1pDZDBfTHIyVC1YV1A2aVZjOW1obndjZkFWNmlVZFhvYS1IT1pVRExwQ1U1X2Y5S1NTUEJ0M0NiWkc5OGUzNTNod01vRm51NE9TaFE?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A211",
+          "titre": "🚨[9J-L1] Le groupe du PSG pour le déplacement au Havre (Officiel)",
+          "media": "Les Titis du PSG",
+          "date": "2026-10-30T11:25:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXNFaWJIQ2VUWWdTNG9NOXZzZHZNcXpFSEdXeVFNaTBwWGdKOHhXUUFfN2tyLUZKXzVCYjFYS3lsd050Xy1zblhsdnZ2U1RFbXIxU1pLTmxsaEtWWjBYbEZKdkpfSWhkS0Y5VHE4ckZvX1dJaDFha1V0WDFsSXZjWnpJaEVwUkUwZmJpZGdVNXh2c01DU0FxQ1RSWjBtNFhhNzBHSEYxSWllMEtlMzNEQQ?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A233",
+          "titre": "🗞️[9J-L1] Les XI probables pour HAC-PSG selon la Presse",
+          "media": "Les Titis du PSG",
+          "date": "2026-10-30T10:55:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFM1dy1KQ1BuYzhPRjZIRTEtdTJBaUVtMW1TWG5SR3N0TmxCcVlBcU5Kd183X1g1S1A4MWlmazRpS1JFcUg2NzE0ZGF4Q09ZVWUzRkUtckRTTGs3bklPaHJFX2I2N3B2T0NlOXBHRWlSZk1RdG5NdHpuR251XzNTSEVtMzR3MFlPbjF5QU54dHhpNG1zZlFKdUtHYnpVaVBpT1RYaUZRWVRPTXBNTzQtMw?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A159",
+          "titre": "EXCLU : Lucas Chevalier (PSG) titulaire au Havre ?",
+          "media": "www.433foot.fr",
+          "date": "2026-10-30T12:42:07.000Z",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SdmEyNDFKUjZmTDZOVjlKS2FSQ1FuQW5zOUUwU0ZXcmxsN01TOU1lWmtYTDJaYzZnNXRvV2J3YjNmNnNOZFNjUDY2MVhfc0x5SENPMHcwZmROWk5pWlRZSXVoYm01VzYwSTVFTHlXc1JHMU93cFBR?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A292",
+          "titre": "HAC – PSG : Le trio particulièrement expérimental que Luis Enrique pourrait lancer",
+          "media": "Football365",
+          "date": "2026-10-30T09:21:07.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUVLY3lOR3FWRzVHQnVrZnI1cEJOZzlEdGJEQUlDdTNLMEE3dTBUY1VKSW00LXBMOXFqVkRxTzRPM3ZYQm4teWdMX0F0YTNTUUxzS1YtVWVUOG9CQWp3MlVTQ3RYSHhuSHhlb3VYYjZ5eW03RWpUeDJkN3dsMUxoOHhNcDlRemc0QjhCeFR2T09YUlBBQjF0SWRqb1dYMTVTekxkbzAwX3UtNGVROXppVlpwMnZLNFpyZlhr?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A108",
+          "titre": "Digne, Luis Enrique… Les chiffres clés avant Le Havre / PSG",
+          "media": "Canal Supporters PSG 24-7",
+          "date": "2026-10-30T13:39:37.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVnVLdWxRWHRqMnR3OTI0U3hpX0dNWTB2ODJOMnNVTmlEV1d3OGxCRDA3Ni1Sejg4bTlKY2d2Nk9uaE5yTkhmcmJVaDhBYW5peGM2bUY3R0JDRWw1RE56QW1FM25fT1VkS2x2emVqR1htQ2dtRGdHNUkwY0NiRU1Bb2dtR2QtNkVtbVRqRGo0UkVzcDdrMjZ6ZXljS2JuUzR1Q0VlUndBTXFMVk1iWGxBQXFWdGY2Q2ZIUEFzOTJha005Y1d6Z0ttQTVRSEhId2xSWVg1eUQ2eTh1cldWekl0SGVoS0dhbm5say1feUdZUHBpRjVQYS1HbjdGV21SR1M2VENyNkRNd3V2cm5RaVZfcEFR0gGXAkFVX3lxTE5ZMXdvUmpEbUVOMUJtRnV3aldFak5xblJpTnJBVjlrcjVmN3c2ZHNSUWI1WTc0STJzYzY0SDdsalVXZG9acjYwX0ppWEczdjlRSzRtekpfRlBtaTR3ekVSZnpTUVFEQzdtQkE0TVMwTS03OEpSaDM5dUtoN1h3akJMNFNnbHo5WkJOWXV2dUlzdHVhbmlOQm9ZdTJHa0kxNTMwUGpaR0JMWUhGTzNtVnYxbW50Q1EwRHo3UmhZRlRMN0JlLTBUSGtQclVnZkFNYUVFVjVQdl9RUG9ueTZHa2s4S3hiR3JGVzJ2Wm1sVTh3d0p3S3B4dGVzc3RhYS1UQXk3ZnlWQWdNcHVGWFpLZ09Xa3d1VmNEbw?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A208",
+          "titre": "Pronostic Le Havre vs PSG 30/10/2026 : les difficultés des locaux devraient se poursuivre",
+          "media": "Goal.com",
+          "date": "2026-10-30T11:29:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkhIOGlWUzQwaW5ab1JfM2luNzNBcGVITFdMT3NRb2hualNOZ1d3Z1g4aDdBbEIzQkdIM2VwM1gyQ0ZKNXp4UTdKemlzZXRhNkNhR3RVUmhjazdIbG0ydl92YXNqNmRjOUgtZ05oVVlCQ3V4NjJUR0o0WXg3SWdmMUhWMFZ5eS1CMUFybml6ZHQzc1ZwcUZTV094TFUxcTBwOG9CbW9VNTZpcWFLMllEREdwYXBUYzhVc1Rj?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A383",
+          "titre": "Sur quelle chaîne et à quelle heure voir Le Havre-PSG en Ligue 1",
+          "media": "20 Minutes",
+          "date": "2026-10-30T06:22:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWkVOSVc5QVk5clBQdnZQWFI1eU0xYnp0SXEzSkpUYjJtbksyLXlVSFZYUWYtY0FiRzVVbHAwVjV6TUJxOEk5eWR5Yk0xYjR3bC1NenR3M25fQWMtdDNtZzliMm9saDZ6UF9JNnlxSGRtT0FxY0JTOWRQYmw2dTZIa3V2MV9UTk1WRUlfQnRVYjNUaWlVTllHWTdpejRJX3d4WWdiQzIycTlxMzNPaHRndWNn?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A131",
+          "titre": "HAC – PSG. 3 minutes d’affichage facturées 7 500 euros",
+          "media": "Sportune",
+          "date": "2026-10-30T13:15:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnRxNTlBQUJtWG9UWHNibmFlTkVvZVQwZ2x6QVRZWWxUNnp1bW1lbEZhdHU0UmxpTHViMEJuXzVwTUZlRjAtWUhxbkVMRFdIdUlvWlp4ZHphNWJXcTRDQVA2S1ZzUEVXdWVBaWhseDZROHNyZThfbkh2Z1gyeWNLRUtoUTFLYkNHeDNmdjdfWi1uTDVqbnV2NDRuSERpMnUyX3J2YmRJb3p4bHpr?oc=5",
+          "requete": "Google News : PSG"
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "titre": "OM : Genesio dénonce un « lobbying » autour des jeunes",
+      "resume": "En conférence de presse avant OM – Toulouse, Bruno Genesio s’exprime sur l’utilisation des jeunes, Abdallah, Valero, Gomes et Maupay.",
+      "articles": [
+        {
+          "id": "A148",
+          "titre": "\"Il y a un lobbying autour des jeunes de l'OM\" dénonce Genesio",
+          "media": "RMC Sport",
+          "date": "2026-10-30T12:57:35.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3FXMnUzb1pEdjdNczVJVDNnWHRhM04zNzBPbUxXS2hsZVYzZlkwcy1MSlA3ZUhOeXlzNHpBN2s1LXNEOVpDZWNPZW13dHluWUFZalB3M0E0RUI3T1B2WDhfbmRHYWpnNW5aT2x6aVFYdS01UzFvMl9wT0Y4ODBmWHJrdWRoMTMyX2Jqd1lKSjkyRk15WW1nTUFzYkJibVljWnBTTlJLN1FobzA3S1pCSTBkc3FKd1pMSW81WTA0YVRsYlNpUGlmSXg4bw?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A96",
+          "titre": "\"Je ne me laisserai pas avoir par le lobbying\": la mise au point de Genesio sur l'utilisation des jeunes à l'OM",
+          "media": "RMC Sport",
+          "date": "2026-10-30T13:52:58.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRWZqQWFmdGQ0ejlITkkzYUNPN0hrU1paV3NOQUFuWlE1LTdqSHNZMmpkUlR4S3R2TnVNMm1DYjBteW51YjVQQU05TzN4dGlGaV9FZjUxdjJMQl8wRTFrQk53eVhRQ3BDSDFxdG1mTDU2RTRQQ2V3anRxYlNSN2JOUEpJTzlkNENnSjg0NnJHc3ZLcWpCX2U0RXJrODVEQ0NRXzd4R0w1SElSZmc1ZVIzd194NUZIaDczVUVqUmd0ZG1EMGxlc2lYQUhkVXBkZ2FNN1RNUDNWcV9xeE52RFVQN2VWcUlPNnRiQ25jYjhSS2hQTDRYaDdtdDVQeS1kSnBjOFhNcVE4MHZudklWcmNCeEhrWmJVR3F1MzBr?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A15",
+          "titre": "« Il y a un lobbying » : A l'OM, Bruno Genesio refuse de céder aux pressions extérieures",
+          "media": "Le10Sport",
+          "date": "2026-10-30T15:38:55.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWxNaUtMc2E2aFBnOHdkb0NOZ3o1R21Ka1JXZWtRRDVUWkJWMHFmN21Pc2F5ZjdkdW0wZngxcHBudWY3dlNpRkdJRGFxaXBXM0FUSDdWMnBXSWplS2hFSjlEVF90cFNhTjFLNzFRckM5RlAzclh3Z3hDc1oxMXRYZFF4RUlINnZURlF6TU1TUW5PYVhmN1RLYWJSSzFtVkVvZk9jNGtsQnVKNVA5NDdqNkQ5QW1QT3ZZcVE?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A72",
+          "titre": "Bruno Genesio : « Une sorte de lobbying autour des jeunes joueurs de l’OM… » | Foot - Ligue 1 - Marseille",
+          "media": "L'Équipe",
+          "date": "2026-10-30T14:24:59.000Z",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdDZ4X0NuUzFUS3NuNHZpQTNTZnJPd0FyZ1ZpNnhaZTBQcFFPNmdlWV9JODhucjR2LUpMdkNJcl81R19aRTNLRzFqbW5VNVlTUkY3VVJVb1VDUjBMd0J1MVMzU1VYcDdPY3llb19BSW1NMnpia0Y5eURvbkN5YkQ0LXI2RzhNeDlGOUdwaFFqUmlYUVEwaTV6aVEtN05ScG05Y0h6NnFGTkZuU1FLbjV2ZFZBbHVtMVFvaHJZQk84UjF3VFFabi13d2RvSXpwYnc?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A61",
+          "titre": "Bruno Genesio, avant la réception de Toulouse : « Une sorte de lobbying autour des jeunes joueurs de l'OM... »",
+          "media": "L'Équipe",
+          "date": "2026-10-30T14:37:05.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbGN1UW5vWU9RSDRmS1N2bkJTSHpZZDF1RlVoNHdLUHlkcHdHclhUdVlkRE1YRWVlU3NxVWZzNG9oSGo5NnNOYzZxNGk2UUx2NWxVOXo0ejdhSkhxVDJicDlwOWZfcEJEV3JvNE51a2pVdUxNRGxxNV9rQUZsa1hTUWxPVlVmRFFvUkt3UUM5ZUxVRWt0cklUcTFNREtxYWdJS25mNk1tQ1p1TjVXREFpa2pfdEJ2VkY4eThUTHRJSFpFemZwOUdaaEZEXzYxcEFQemFBWVI5LWFZVzBJWkZCQXRBSExhQQ?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A5",
+          "titre": "Entre sanctions et dépendance, Genesio dénonce un \"lobbying autour des jeunes\" à l'OM",
+          "media": "Eurosport",
+          "date": "2026-10-30T15:50:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNzYwalpLVjRzNXEzbFEzdkJNT2dWZHdlSXhnSHc1ek1jcUQ4ekl5Y20wMjFhbktGUXhxaWVaV21Fa2lMa1lBeFBNTDdtUGZVQUZIZkhERUVkclVKcmtpTU9fd0I1MzFZc0NaejFOUDZiNDhDZDNiMTJpeXBhdkZRNHNXckJoVHFUUFRsd2p4M3ExZEFyU1QtelhGdV9VRFJZVkxiV3RydVNISEVEZUNQN0JYVzNZNFFkZHAwTThNVC1NYk9TV3FOQVBoT2ZMQ3ZSVWhwX1hWRkMtbkJUcloxU3lqSVZsc19qOF91Y0tHTk1NcHpVUlE1cU53aVVZa19qMm40RC1EckdIbTdLaDhJZEpEVnVScnRuSjNN?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A106",
+          "titre": "OM - Toulouse : Genesio \"je ne cederai pas au lobbying concernant les jeunes\"",
+          "media": "Maritima",
+          "date": "2026-10-30T13:40:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2NDV3dIYngyR3hDUUFKWG5LNGItMV9NQUtUMk1kZnpyMHVGbVRtM1R5X21RNGEwZ2Zoc3ZVSHhVQmtTWDhFanFONU5RemgtaFhUQlBoOUlVeXdxbEcza3lCN3hxOExtV3lxdWdQem55ZEU4WExrcXY2MDdpSW1jZXN3LWpId0FJdmRrbGZxby1fUExEMHdEMXVDaW1tRWFWSUpkQ2ZGbnVqTGRGd0ZSNF85N0NtMXNxQjd3SVJB?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A81",
+          "titre": "OM : « Je ne me laisserai pas avoir », Genesio répond sur Valero et les jeunes",
+          "media": "Football Club de Marseille",
+          "date": "2026-10-30T14:03:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHVDcGo2QnZKc0oxZXN6TE5aWXpyM1dVbTYweWlCNFJndmhnbEc2RVhSOW1WUG01ZGlObDlTN2Vpdkpkb1F5UEpTb3Qxa2EyS1JXdXM0MXBUMlNGQkVPR2szQW5jbTZHcXVILWZwNFpnR2xiOHh2OGM5V2YwT3J2TTgxZU5XTnIzU0JtakprN2RWVldYNHZBRTN3MUdRVTNkbDhabUJkclIwblk?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A100",
+          "titre": "OM : Abdallah et les jeunes, la nouvelle mise au point de Genesio",
+          "media": "Maxifoot",
+          "date": "2026-10-30T13:45:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TOF8yTnNBeVA4cFJ2bHVUcVVmMGY1WXVnZGkzSnJHN0F4dnhWYXUxbHdRcHdIVTFQTXhuVkZmdVFMbmxiNHFENzlPRnpKcVpaR3hUQzM3d0t1OEk5LUZJ0gFXQVVfeXFMTUxCOFh1enFlS25Ub3MxWEtoUWVwZ0RFMzhWMFNKTzY2WDByekpORGZYYlZRX18yZ0RfNUJSR2M5QURsRkxKV19TUUJHWHUzS28tcEYxTWhN?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A57",
+          "titre": "OM : Abdallah, Valero, Maupay… Genesio fait le point sans détour sur les écartés et les mal-aimés",
+          "media": "Footeo News",
+          "date": "2026-10-30T14:41:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc0UzYmZrVDFmdXl0QXI0dlYwY1dUWnVxR0paRnpET0dSRUNzQ2V1N2xwb01fTmVwdy1WZEZMb21yTzJlT29LY0hiTFhBWFZDQ0gwbXlqQkVPZ3dqTURoX2VnSEJrMXViWHNnZ3M1c0l2QjJiTTJtTmhCWVNNM0J6VVVOSkFuejg5ZDktajl4Ny1OMmN4bWp4MW1uUFhIT1c5Q25VelFnNnVIakx6c2FQdTlJbzRvR1lMMzJwVVRZN0xMY19tQjFpN2tVaXc3dw?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A128",
+          "titre": "OM : Bruno Genesio dénonce un lobbying autour des jeunes du club",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T13:17:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVFWX0lmN1Z0VFI1eVhjcy1qaXVUdmt3bXlDMGJ6bTIxaEcwVDN0a0VxY19IN29WcHNvYndlSFQ4bk9fSlNJNFdxdUtqQkFJMFljcTRkcjF4V3ZDWHp2RHY1cmFxbVF4bkdxdGNzX0FnLXNaVWhmV2h0X2F1VU5OUENfdjg5WkhhMmp0VDZSUFJfX1BNS0ZFYzREOVRCNng5Nk9HRFF4R1VIeWhFeFl4Qw?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A97",
+          "titre": "OM : les jeunes, la mise au point de Genesio",
+          "media": "Maxifoot",
+          "date": "2026-10-30T13:49:22.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT085VjdSSFF5S0NqVUdlekxoVE5icndSbk9VblEzaW5zZGF2YVFqTjNIbDQ3UlBJeWV5dnMxcm50R2JiNGxsS0s3clpWZEE4QzAxMUxDT01hTVhXVzNmejRXMjh1YVY3TDdmbEhOVWdidER4bW1rZU1nREpTYjN2XzNSYUUzWTZF0gGIAUFVX3lxTE5RRGlfS0xwOUZDdm9GV1BPeUFwSzFmdmoxc2tTR2F4Qy0zanoyT3ZnZkp5WThXZ1FtT0ZXZW5jQ2NyNG9WSVhDMUkwQ0h5bEpSc3ppODQzdjZCQk5YTXhnYWZOOUVKaGlfUUMyVWh3WjhZNi14ODdSaVpRSzR6NVhqSE81eXdsdGM?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A130",
+          "titre": "OM - Genesio met les choses au clair sur les jeunes et défend Gomes et Maupay",
+          "media": "Le Phocéen",
+          "date": "2026-10-30T13:15:08.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNksycVY3dmRGZzhyTmt5UU5Bd2JXTmlUcmlpWXoxXzNHZGFtR3NNelA4WnViU21sdUo3eTZyTDRSMWRtak5MZUdkRUUxNzd4Q0pnaEg0SzcydGlMT1R6OUgwSnUya0Z4RkFUVWRmZ0N0WWkzQTV4YnBiT3BDeUlWc1UtVG4wbkFPUVZLZmhfMGtuY1FwQ2tmZGtvSEtzR1ptS1kwN3FReU9GdmRyNFdKTWpYTjFSZVFkODRxZXB3bENFUlE?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A132",
+          "titre": "OM - Le message de Bruno Genesio ne devrait pas plaire aux supporters d'Antoine Valero",
+          "media": "MadeInMarseillais",
+          "date": "2026-10-30T13:15:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMTBUMHpVNmczeDdWNURHX0p0SWh2SmplMElPUl85anNXeHJKVjJFR1dKdUZFU1B1Q2kzRWpMMTFFdkpuSWVOalRkRDM2R3ctX0Zrb2pfM2dJdzZHclFEb0FGNUxOTHRqTEVrNG5SMXhQSEJzd0lUUm1WcG1TSjM4Zm44TTRkb3FWelk2NkRCU2EwTFNZMHg1a3kwbFp5cmNBX1YwSkRXelFBMi1jMW8zb3pLdG9zTmhqVTI3SXpYN21HOGhJTlZZeHdPOFQ1WlhKWnhDMEs0c2NOSWRxTlB6akhSU1BCMXc?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A133",
+          "titre": "OM - Bruno Genesio met les choses au clair concernant le jeune Antoine Valero",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T13:15:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT3NMTzBJYmFKT25IWmxzMkNESFREdzZJUVdONmhreDQtczNGUXJfOXBOdTU1UF8zUjB1M2JqODZMdFhKdDhiSUQzNVd0Ty1Ndjg3MHJFWkF2ckxyd0dtYXY0dUpvXzhBbHpFa2ZuTndBaGVfMEMybUk3VnA4SGJmSlRVVVBSQjBnbXlmd3dzS0VCTTZTMndxdW5jUV82a2Jic3BDZjVKWmZFcWRLSUMta1AwWmZ6WUhiSFhaeHhJbHFpNjhPWkpfVmdWanNTQmVMOWc?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A48",
+          "titre": "OM : Genesio n'est pas là pour « punir ou sanctionner » : Sports - Orange",
+          "media": "Sports - Orange",
+          "date": "2026-10-30T14:50:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnNidmJvY0RRQUZxODRjMGVxLXl3WkpTYzZwVktBVmV6d09EVUd0Ym9MYUNPZWJqUl9GSUdjVzl2dVV6S05VU3U3dUVpRGRaWS1pdjg1UzZtWjEzUGdSWk5IV2h0M0Yyby0zZW16SkhsOUxxcU5kcDdFTFU1ODVQdFdYTVlHZkhHOWVWU0hkb0JmcERnSXFEVWdSeGFFNld1R2JscWhNT0VHUXBmRGVQZi15UjBBWVVKZDE4dUtKTmJ0cVZ0UWxuVVNyYkZIR0gt0gHPAUFVX3lxTE11dTdPRDAzUTM4c1Zvck1qR1ZWa1dUQmpSbE5iUEZQeWkzTTcxSkVsOHR0cWRYUkhmS0xDYWdsOXVWakZsVWxjeEpSdHRUY2pleEM1cExIZ2V1c0RfMkROOXVqcjdBdGJLcnY4S1VTOVZMZzRFNVlGdERfdVVyS29aaHJMR0ptbkVyVGl5dTRxYzkxZjl4ZVRUTmtIYnEyNDNFa1o3b3pSNEQ3cjJMU3oyaEFOU3lYWlBLMWpVLVVtSVRGS05EZGNjTUhBYlJwcw?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A73",
+          "titre": "OM : Genesio défend Gomes et Maupay",
+          "media": "Maxifoot",
+          "date": "2026-10-30T14:23:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Nk1fdS13eXF0dGljMmhNYlRVYTJMdGVCbnJiem5qMGFjZkhsYmw2U2xPeFQ3czMyak1ubXM4VTNZdk90SkJnTW44UUlKYi1zMk5IWk5UTmNjemhoQ0Z1d3VOX2xtS01JMVR2NVB5bVFtdmY0ZHYzS2Z3N05VWmvSAX5BVV95cUxNbHRtX3oyM2haaC1pUHpnN0IwM2J4TWJsZ1dkQXV4bFQ4U0hjUUVEUlhtTVlnb25lNFJlQzJQV01qdXBEVHY3S2tyZUVnX2VhQUJmYlVOR3pDekNTai1vblZzUUJnQmNJazczWkxjdFg5NFkxWWp5Z1lPdmpQOHc?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A86",
+          "titre": "OM : Genesio vient au secours de Maupay",
+          "media": "Foot01",
+          "date": "2026-10-30T14:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wMEtXa0xRY2czdlNmRk5WU01TdEowUFlWNFdoRDJrRWg0dTJSN1FSMFJVQk5Ecm1zN0t6Q0gwdFhGUktpVS1OSmVYWUZuOGZFTVJJRk16VEhyYlI5bV9pbE1STERVVXVFbXZaYUNvVHVEekdEQ0dhb3ZR?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A145",
+          "titre": "OM : Genesio s'explique pour Abdallah",
+          "media": "Maxifoot",
+          "date": "2026-10-30T13:05:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWHFXTmVaY0w0ZEJEZmxOVFlmNVQtZzU3VDEtMkFvMThiQ3RfeVVjNnpyX0E0Qm5pTk90T3FydmtjRFlDbElfaTFHRGhEUWtJd0NZaW9OUXFyTGRVWW43SG5xZ1RfQjBTSXo5SG9WLUg5dW05SHF1Vmw2VXg2LXFxX3hR0gGAAUFVX3lxTE1ncno0RVZCaWl2N0tORTlmQkVPV3FBbFZxblB4N0tDaVRRQmlGX3RSLWU1YXk5bk1vSFJmUXpkRW5hTlV6Uk95b1FLOTQ4M0NMSjE0OG1FbkVCUTZxMjJwNG5YNktGeVFMYmxwcXdXTXBfYWVPN3RsR2pzVFhoSHJO?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A78",
+          "titre": "OM - Bruno Genesio justifie sa sanction pour Keyliane Abdallah et explique son indulgence envers Angel Gomes et Neal Maupay",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T14:05:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSVM0TVk2a0loS3B0NFFneVJMOE1RU281NlNkb0F2MVNEZlFjQmpBUEJ3QmhJY09KSlh0RjNES0V5blRJUWszbmlic1h1emxXNS1ZdExxeHhuUGRWak1HMF9tV2dSVG1keS05bDRhTGIwcFgyVWdWZ2l1MkExaVo1TjVlY1JRN0VmczZ3Y2VvbHJvYUR5OV9QTmIza2lpZ2tWVmdvakZjZlhzaXh6WXFxY085SUZ2TEVGR1VHTzZaMWgycXFZMkNqMUpuR2FJYWhJeVpFbjhKLWFVQjhMRHFGelZ3aTRGeERXOEdOeXJHaDQ1Y1U5bnk5UWpjbF9CbkNkaEtQSzFiLTI1V3NaWFJJ?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A82",
+          "titre": "OM : Bruno Genesio explique pourquoi il a épargné Angel Gomes",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T14:02:25.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYjgwUUtSVVI4NTR1M0hTUWljdEZuaGNfLVZxd3U4Vy1mOVdyWkJUdGRHUzRaaG52YzlVUjQ4V0h6dXdqOGltVF9MV3VTTXh3Y0xfeHlkSVhUa3lVTmZ1ZzZxRzVCSjFoRjhmajByUVl5MkV2Z1NEUUFsbmNGSkVNcHlDekJ0UG9OLWg0RTdCRXVIR1lZWnYtLV9CTzlGbnMzTDlvdThBeGh6TzRy?oc=5",
+          "requete": "Google News : OM"
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "titre": "Ligue des champions féminine : le PSG accroche Manchester City",
+      "resume": "Les Parisiennes obtiennent le match nul (1-1) à Manchester lors de la 3e journée.",
+      "articles": [
+        {
+          "id": "A333",
+          "titre": "Dans une fin de match folle, le PSG arrache un bon match nul face à Manchester City",
+          "media": "Flashscore.fr",
+          "date": "2026-10-30T08:02:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNk8wTVl1eUVjTjBja2xDeWc1RERVQU9KTjFyN1pWblItSWNiRTMxc1dkazZZeURpS2QwMnh4alN5Y1ZWb1BROGgtMFNEbWRYY0dBQXRQNWhISVhfSXpjbjlORTJzaUp4TmpwcG96SXViLVVoOGNtOE9FSHllSkFiNjFzaFd2SW5CR2RNZGF4dlFpX1o5dGZqalpsaEhMMUZ6RkpBWkZzd2lIX1dqeXFuQU9BVmJIZDNDejkybzlzakxxT19pU2xScg?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A438",
+          "titre": "LdC (F) : le PSG accroche Manchester City",
+          "media": "Foot Mercato",
+          "date": "2026-10-29T22:16:59.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3NSTjYycFpkU3BJSjk5SGdDZFRuNXBBVllUTXRDMDlJb0JNWGVHZjVzVTdnbU14Vm0tTWxFRDNmUEFkZ0lydGFxb2ZJN1dNaUUwdWIxanJXSVhBVEdMY05RNjNWUmhROHo3TFBqcXpaRFBDTERWaUg4dUdLMUIxZmpKUTcwX014dGZtNDFBOA?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A447",
+          "titre": "Le PSG récupère un point face à Manchester City : score, résultat et résumé du match de la 3e journée de Ligue des Champions féminine",
+          "media": "Dicodusport",
+          "date": "2026-10-29T21:57:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMmlEc1p2aXhOUE9tM3ZWbi1XNFBKZzllcXBPMGVtUTRtUWQ4emhZLWhfc0IyOHdLOUpFWUxDaVRVbEZ6V1A4ekYtM214OXBHN19PMEFVbDhEQ0NNN2czVUYxTld5em5CbkdLWXBuLWFtbUNSeWRjOWQ4VUc1RWNJMmI2QTF1WGg3TEJlUk93TXFMTldXYy1FQk9NY0hmRC1uREluUlpQZHBaTnBXWk5UUmNtSGhnM2gyUk5zNkh5Xzl0NkxDNHNfcTRNYVlla25qRmFQYmlCQ2QzaTBlS19fVi1mV3hnUmRwNUtMdlhKQ1o?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A440",
+          "titre": "Le PSG tient en échec Manchester City",
+          "media": "SO FOOT.com",
+          "date": "2026-10-29T22:04:36.000Z",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzdyYV83RHF6N1RIM0VlQm1ZVklaSGhsXzZJZEx1czJCRTVzQ3lNZlV3OEFoLVViNFNSWlk0b0ZZamtLdlBvRHpmWWJlVWNpampqaGx6YUlldGdaME5oY0lIemJNcjROR0ZxMG5IZkVMSlg4MFU1RXR5WWxHWkRYT00xOElUNi1jT3J3aW1QVTAxR1puOUNMMzliUGo?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A439",
+          "titre": "Ligue des Champions : le PSG arrache le nul à City, le Paris FC rejoint dans le temps additionnel, le Barça en démonstration",
+          "media": "Footeo News",
+          "date": "2026-10-29T22:13:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcnM3Tlhtb3dGaEVLR0pFRVFBT2ZvLUpVMUNiNkV0Vl83Ty05N2hHaFdtOXJhQVJTWTV1MEI1WEtLTWJyUWpFTTNhQWJLSTgxTzJIUVpnamF0UW1qY1NIWVBtRnMzV1FuUjlYUHY4bDQtUzhGbDlhWXpOVEVRcmI4V0NORko5RGstWFY0ZHhRVW5tZmRPbDhrLTlheGNrcXpvcjB0Tk12enNhNmUzbjcwY1JZZ1gtMmw3NE5EZHRaaUhWLUdPSWpMVmVkTVJ1X2ZzZUIzdUR5SkZnRGgtNVA5ZjdHWlh3UFJZNzFpVGUwY25RLXc?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A435",
+          "titre": "Ligue des champions (D): Le PSG et le Paris FC neutralisés",
+          "media": "Sports.fr",
+          "date": "2026-10-29T22:24:10.000Z",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnZfT3d3U1BKNDJET1AtSXRoZ2xIbXFSNHltUC1nWWxPcGtjNzRwem92dVJwbU12cXN5QmdmN0w4Q19KZkROR1V3bGVGX25rUkdTeFBvZnRoQWFGaVNzTGpwVkc1RFZmVWxEa2xrUnkydS1zOUd2TTNNOHhjeXB5TUk5RC1XaW42WUVmcUdrQm1TQm5vN2FPdzBWOVJxV2U4NnFpRjRB?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A464",
+          "titre": "Ligue des champions (D): Manchester City-PSG en direct",
+          "media": "Sports.fr",
+          "date": "2026-10-29T20:14:31.000Z",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaW51VGxWU2FpTi1JUzhVeGxTdWE1UFNESExxTUtXcGUwZFhQWmFDYW5SZDgtOXhOYWhOMGdPLTRUaVZsU1ZCMGFXYmxob29MaTVoQjhXRGxsSk4wc25OcDRqVnl4WHJGX1lpOVB4WUFzd1pTeWtkaVU4RnpFZVJIYUVrS0ZobGJEYlVOcEVEaXYyRW00ZW04c2x0cktPbjZI?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A444",
+          "titre": "Ligue des Champions (F) : au courage, le PSG ramène un bon point de Manchester City",
+          "media": "Foot National",
+          "date": "2026-10-29T22:01:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnk0STFzREV6SXFtTVhUWTdtNC1DclpjbnhjWHdtcnAyQjluSk9jSXdSNDNRdlN0UWRqbFBpYXJ0a2U3bVdKMEVWYnlWVXVoSkVsTzhTckNJc3Y5a0ZONktjYUUxaWg1ZTNBVFlaVWtRcm91b0todWg1U2ZGcXhzTm11TFdYUFN5OEt3TlM3YmtiTE14blh5RV9acnhvNzRubWIyZWxxdkNzUXp6Ml9ZYXBLbEIwNjJLcTN4cDI5UXV1ZXZINzg3RHNiRjN5NjdR?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A425",
+          "titre": "Ligue des champions (f): le PSG résiste à Manchester City",
+          "media": "Sport.fr",
+          "date": "2026-10-29T22:55:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMlNDRVJBWm53STI5SUhUazZWWk1jaXVTeGJLVjVhRElsNkc0NzNfMU5Ld0RFSXNFVXdCb2tVY21YNzZYTTRvOHlnTGZJOV8wQXNLbkVRbDFTSGx2QWVWaHo2YnN2bjRydTRWQ2RQczdGZVRBaHhKXzA2b2VpQjYteXJCajZxZ1NCejQwSnE3ak10RXl5YjFhVE5GSl9Bdw?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A448",
+          "titre": "Ligue des champions (F/J3) : Le PSG ramène le nul de Manchester City : Sports - Orange",
+          "media": "Sports - Orange",
+          "date": "2026-10-29T21:55:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ0JJMGhoMWQ3SzJwaDhtZFFaMDd6d01zaWRsY1BSZXBzSUFzU0Z4SGlURkVxQmxhdUNDZ2JMYUVnT1ZoeW5pbDRhbmJLNlgyTFlkV2labG1aYzFWZEZ0dkxuSnJXQTEyU0Z6YnVSZHd2NThPSzNGeFN5THlfNW1aS2RZcng0cDFSbF9ZWVF0VVVBdVhBWTJCUW9yU1RhLWNZS0x6eDY0LW43WjV4VHlERXZwemJBLXpBbVpLQ2FQN0VDcXdHVXhEZHFCanpzekp0X0dNMVhYQ3NOMnlzaUlrc0FESG50VW_SAeYBQVVfeXFMTUlGLWc5bVRpNndlWHQ0Y0xsZV9aYzBIZzdVQWlDY0tyUWlFZnNqM1pFbzNoek1feWtrRGtLZkV2S0M1MWp0dkcta01taFVWTHhINEhob1pKTTJVMkhNQ2hTTXo1cUhvcjBnZjU5b0lqVFZwc1JodDRTdjF0OGdkcllOOGh6VGtnRHhmYlZ2OUVpYXF1NU0xYS0zeGZxNWpZeUdYRmhJbjByVFhiZm5OdThxVTlTQlN0VFhRWkM5TWhtSVpNeDM2Mm1DRFF2WDdFTGt3OElKWFRoQmVvOWtrN2ZEdTRmVkE?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A442",
+          "titre": "Ligue des champions féminine : Le PSG arrache un point à Manchester City",
+          "media": "L'Équipe",
+          "date": "2026-10-29T22:03:31.000Z",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmJCRTgyaEZOTThJWjBIQjZZeUhhd2ZEQXdHUjRUMWpkcURHQ3VwbGNnZ3Exd05HTXdna1NxZThRZ0JwWmhCZ3JrbkN4TE1EUjJjRm82dnd6T2ZlQlVZX19mTnFtc1RQU01fRGNxdVNXN1l6S19iazJvZlNSbEhVSTQtamxnaXZBcjl0MUhfaGlzWjRQaWtkZEFYdk9uMDhPZk5tOXROVTZTSW43S3VOeHdRTnJaVmtPMEFSSGx3?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A428",
+          "titre": "Ligue des champions féminine : le PSG tient le choc contre City",
+          "media": "Eurosport",
+          "date": "2026-10-29T22:46:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTG01ZE4zcFlrWGFlSzBlR2NhNGRMeFAwMzVQY3M2alBXY3QtbllrNnY1cDh2X2RQeVNIdnBWNVhkd184NXNvQzRjVlhYbzZRWHZZWVVsS0trLTdIV2lJd0xhbjhZQlJhMHlqWWM1SVBnZFpvU0RZN1JsYTRrbndteTRNS3BtX1lKeU02WjNINzRSaVhDeE9mamJvWHZLblB0MkNROEZkd0NXcWJIUXY4emgwbDZ1UzZscWRRcUZoTm1ER28xZFV6RmdRTmoyM3g2Vmdid2Q1bW1QQnZ0X1EzSFFwUlh2NTVwWUpRU0stUQ?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A466",
+          "titre": "Ligue des champions féminine : Manchester City - PSG",
+          "media": "TF1+",
+          "date": "2026-10-29T20:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjR2S0dZRDNZbEZURUNSVjdNUWRjOGljZ3JsR1hrTm1vZ2dqYnZmZmFDbWx5bWFqakpvSDNHSW45RFM0ZTA2akdPOFFuZXAtZlZtTUFiWnMycXRaLVBxSFc4NVBXdTY1Y29vNEZ4YjM1RGVnbFpZcW9xZFBUVFBzQ2Iyby0wbGJyLWJGVzVkb0xGQ2dubVpDcmpiRXNydjVjc3d5ZGJGdHpvUQ?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A431",
+          "titre": "Ligue des champions féminine: le PSG arrache le nul à Manchester City",
+          "media": "RMC Sport",
+          "date": "2026-10-29T22:37:22.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWlOQ0xwTXhRMHN2SDAxUnNYaFIwbXVEN3hVYTlRQjVLLW10cnZmWEVBT3AtaHNWbnBINDlidHp3Sm5SaUhGcFp1TVdhZVF1MFlyVWlwYWM4ZjkxMjBOSDB1OFlVUDV5Q0xIT1Z5UXE0LTE4OWNQWDNHcVFjdWF1R19TTldNVlRsS0dycEtxZ2hITzV4VmFWd0JXaDByWFNpeExUaHQ2ZEtNR2ZkbkNYR3RVeENhSHVaVHFVU1liMFk2dlNkVUx5NHd1cXQ0R2hySmxfU2pUQ0poLTZUVjhsQ09fUW9zd3c4?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A484",
+          "titre": "Manchester City - PSG féminin : à quelle heure et sur quelle chaîne TV voir le match de Ligue des champions",
+          "media": "Le Parisien",
+          "date": "2026-10-29T17:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNS0dDUGU2U3pFN2tqdU9MRF9vWjVPRTRBQVNic1FTSnMwMzgxOU5RcnZXc3hZckRoQkZlM3NZWndJLTRtclItZ1hHWnJkT2Q1VnRfN2htaFlMQkF5RnVBSEpzc1psamJhWGVmWDdTT1dQME5QcmVvQk9pUkxTVFZDQkxucFo3NTlNbmFGX3Zfd2xCZTVKX3E2a0VrY0J0S29RN1lOQy1YUFZuSUZ4bmdJN3VEUE45dXhGMHVPdjJRWnUtbGl6YVlFeWc4aWtBYkFYTjRPU0xodktwc3JsWHJZYV9teGFJZUdIWG1iTzFLZldVbkJabjJjRXpELXdBeWRGR05ncTEyWkxiSldRRWViTXg1YzQzSHpRYTAwQlg4dHpSbWhuYVB3dUJNeWROUWY2?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A441",
+          "titre": "Manchester City 1-1 PSG : Les parisiennes toujours invaincues | Foot - Ligue des champions (F)",
+          "media": "L'Équipe",
+          "date": "2026-10-29T22:03:44.000Z",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdE56TUFiSGx5eTE5eGxWRFdfZ3J6ZnYzOGNUaF9QRXRWODM4aUdjUFRieV9hb19zZHVJSTNwc2xoeWI4enY2NTI0amxaMzg3Y1ZvejNPUG9ZXzYyRTlqdzBBMFo2aVVDaW56YzJVMm1CejdEcHhiLVVMT0o4VlpWSUktZy1JcE9ieWNmZTRqNjktdVZJNDU0MlRqRjBKQUtFUXh5N3JZY0tGTFBGWmZXaWlKOFcwWE5XaXRwV2QyRkZ3dzFOdGpr?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A409",
+          "titre": "Manchester City tenu en échec par le PSG (1-1) au terme d’un match à suspense : Tara Elimbi Gilbert égalise après le penalty tardif de Khadija Shaw et prolonge la série sans victoire de City en Ligue des champions féminine",
+          "media": "Goal.com",
+          "date": "2026-10-30T04:25:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOblpaNkQtcWFrbmlVbkwzcmF6aEFNZW9ac09Mbzl6T25JYlJ6RkFMSTdYeDBIb3YxYnk2TXEwd19NY01lZVcxN1k4a0U3REtiT1Z5aEFlVy1NRkdDWllDNXdnbl9iYnkyRThhTVdBME95b1hPdU9NU3FJRXJ5Qi0zZjd4RVotOGtzRnQ4RlVHVFJfSEN0dHk1MnVrd1pZS2gyWWZDMFg4MjQzOFlCYkxvTWZNSi1wUkwxS0x2VGVzV2MzRWgtTUZadHhDcUg1YUZVcHN1dFlITEZWSGl0ZGxacjBYenNoSTNMclhrR2UyM0xHQTNrYnVsMEo0dVE5QzFSYnUxbE8tRkxjN0FXMFNiektneDdNaS1uYzhQc2Zod1JMdy1uWGxRNGxXN0cxSEFiQkt5Q0x5TUZlMmJCd3U5WTAwdVdCeC1lV3cwak9kUVJGMS1RXzZVSlo1Wl80cWJaMFpMZVd1Rk43U0VBTDBubHFIWjR4RHl3Y2lwdm9XWVk?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A153",
+          "titre": "UWCL - Les Féminines du PSG arrachent un précieux nul sur la pelouse de Manchester City",
+          "media": "Canal Supporters PSG 24-7",
+          "date": "2026-10-30T12:53:27.000Z",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHRaMmo0MUVyV2tEcDlQOGVZQ3ZqRTZNSmVUNjRSZ0JhQ0dFdXNPdmVORmJHZk9HcmFlT3dyVU02RWtYUEE5SmNyUHRUSEF6eTl4TUFDRzl4UEUtVWwtV2UwUUdxRkdYWjgxTm5KU0FpRHNQbXEyRTVGNEhOZDRfQ21NQUFfZ1RSR0llMkJ5U1dleGtfOXBtbm5Ga2lvTzBKeTlqYzVPRHNXYWRhODhmVUN2b3ZZZ9IBuwFBVV95cUxQWVlXTVVQSkVzTU1WYlpyNkNhNEpBSnA4ZVhVZm5YaXQ4TGhpUnpKVnpGYTVoU1Q1YzZJYXhkYjN6QmlMMW9KRUgtUlRycXB0UVRQbUpDRXZPM2lBQ2t6OXp0ZGk0anNvbm9DOTVFLXUzbHNPM2ZYb1pidE9ndE5KbU1mTnBROTY5dG5iQ1lTZGcwaUFhWVFSOThReVNZeXNPeUt2QzMzVHRCOV9faEsxYWk2alQxYVhaVTB3?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A245",
+          "titre": "PSG - Elimbi Gilbert : « Je finis l'action comme il le faut » : Sports - Orange",
+          "media": "Sports - Orange",
+          "date": "2026-10-30T10:44:05.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGJEVExIdVRPcjJMQVljN3MtcDZTSnBPM04yMmV5UDVaMnFWSWk3TV9RT2RscE9KYXZBeFBnUjRhc1BZMV9IMk5ybl84VVotZVBEc0VCdkhwaVNnREQ0RFlJX25fWEF6SUk3U2pid2NsQzl4YlVkdmZBRkhMbnBuTDhMWWJQcVhFVFhIUHJ3UTZVTFZDVVRTVUZRbXVBS1hZUDhXMmRrZUM5TjVZd0ZvaGNHVmVrQlpPS2lLUHc5TVNyZVVsZkYzUUd3a0R3VU5jVGln0gHTAUFVX3lxTE1YYkRUTEh1VE9yMkxBWWM3cy1wNlNKcE8zTjIyZXlQNVoycVZJaTdNX1FPZGxwT0phdkF4UGdSNGFzUFkxX0gyTnJuXzhVWi1lUERzRUJ2SHBpU2dERDREWUlfbl9YQXpJSTdTamJ3Y2xDOXhiVWR2ZkFGSExucG5MOExZYlBxWEVUWEhQcndRNlVMVkNVVFNVRlFtdUFLWFlQOFcyZGtlQzlONVl3Rm9oY0dWZWtCWk9LaUtQdzlNU3JlVWxmRjNRR3drRHdVTmNUaWc?oc=5",
+          "requete": "Google News : Ligue des champions"
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "titre": "Bleus : Lacroix forfait, nouveau coup dur pour Zidane",
+      "resume": "Maxence Lacroix déclare forfait pour le rassemblement de novembre, après Koné.",
+      "articles": [
+        {
+          "id": "A16",
+          "titre": "Après Lacroix, Zidane face à un gros forfait",
+          "media": "Les Transferts",
+          "date": "2026-10-30T15:36:40.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXNPVEMzVW9SS0JUd0xuT0QydjdnN2R5ZTNSdTNIR1Utd3k0WnpITjNFQUJ3bElNaUhuMTZHSWlGczQtdTJMMjk0NTBWRk1mQVpiT1RvOXNCalRiT3RKSnBNV1VYVnRiTDFPa3NuR3RzVnNqOFF3MUdudWlhM3BXVkRCYVFMbTRsSHpSOHVLNGZiODBWMzVuTmVn?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A66",
+          "titre": "EdF : Gros coup dur pour Zidane en défense",
+          "media": "Foot01",
+          "date": "2026-10-30T14:32:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTM3bGpRbFpTZ2ZnMEtpanB1YW5ZeTlES1FLWUItbnJrNVpZYUVfZGc1cE5ESEV4TnpJTl85NTlOVWh0LVdEM3JlcFFjaERwMGt6UWUxN2dsdkwtUW15cmZkZ2xIN0ZqaUFKbTNHbkpQcmhXZzdGZ3BrREhzb2JfYkRCd3dSTkU?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A58",
+          "titre": "EdF : Lacroix forfait en novembre",
+          "media": "Maxifoot",
+          "date": "2026-10-30T14:39:26.000Z",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sMV9GVlN4blJIOXFTZXo2a1czQTl3VnZ6bFF5T3RaTGhvbjdHMkFZZkY0X0k2SVVnS0pMZXBmQU96cHJqTzdHMnF3WE9ZYXN1bkN0SWpwQjdvNklwSUxBbEJJT3NzNlkydXM5TVdYNEZ6SzBOT1F4YWQ2ejB2TDjSAX9BVV95cUxPdWZPVTFROUw0TF9tLXVZdEp4R3htTHh2UnFjalJZdkRDdXZZS3p5X1lsV3EzazRTdHBHem5qYXM1M2F6VkRhWWJMc2hBRERwT243NExlT0NXOUdQQVN0aTNuRTB6Ulh1X212aHhiOTU1VzRQeUNHNmFYb0N2UVNz?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A89",
+          "titre": "Équipe de France : après Koné, un autre cadre des Bleus déclare forfait !",
+          "media": "Onze Mondial",
+          "date": "2026-10-30T13:57:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNHU4Sk9HVHVsazFMZi1VWHRGOFpWeDFaVFF1UDFwM0thQ05aREF4ckRCbmJhZEd2UDMxSWxjb1NELW5ETnBjeDBtU3BsRnhyM2JpbkREaHpQYkFKSndqRHZuT3prZktrdHRWX1lJTlhfLWpTdFN3cF9tYS14SjJTX0pqbkxNSjZmRGpyOHM5R2NyOUZPQ3I3Q2FWQWVSZ045Y2xYYWlWQWt4QXA3R29zdlNWbEwyVWNxVm9lY0pR?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A94",
+          "titre": "Équipe de France : après Koné, un deuxième Bleu forfait pour la deuxième liste de Zidane",
+          "media": "Foot National",
+          "date": "2026-10-30T13:54:35.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXBZckMwRE00Y1pFS2RUd0xBcVpHMGd0dEo1YTU5ZHFsdFJYcGFaczB6V1JVTFF2VnFpX1VPbUc5TFRLdkJvN2pSN3AwRVFtNnNBbXcxUHhuNTJHMDFjYkEtZW43cXVFOG02S0c2RHhYVjJsYUdVM0VnOHFoSmpMLTdxa3Y5YV93SzVILXg1cGhtR1N3aUQ3UXlSdkYxZEVFRGZIbXlVaGhWYWZ2M0JBZXRXR1NYejRMUHRJd25iR25rWUc1Sm9kb3hrNml2OC03b3pTLTJR?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A62",
+          "titre": "Equipe de France : encore une mauvaise nouvelle pour Zinédine Zidane",
+          "media": "Foot-Africa.com",
+          "date": "2026-10-30T14:36:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHhPdVI3cWdDNHB5VmtMWDFoVVdNb0pLcTBQZGtrSmRrT1Jnc3ZKQWdSZWhPeWlaQmw1QmFuMGJmRDZZVUx3Um5xU1RqenhRV0J2ZkM5ZFA1WHpEQXhzS2lMNXNjYmFyVFJKYWRpSWNRQkc1eHRYOHJMZ1dnSk9nZGxGMmplX3daMm55ZjBQZXlNQXluc0tXN3BvSE5ra0RuU1FjY1VBVU4wbUFBbXYw?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A80",
+          "titre": "Équipe de France : Lacroix forfait et beaucoup d’incertitudes avant la deuxième liste de Zinedine Zidane",
+          "media": "Le Parisien",
+          "date": "2026-10-30T14:03:06.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTm9LQzJOTjNQSk5uWGxBMEdmWFhKRWVRTVgxUkhxNjBCX2stYWlFSU5nZlNZUlgwOThfQURLLVQzbktvQXFOc2ZDMUpJckNrVlZJbnV4VW9KUVo4TGFZRW94cjgtRDNnT0ZtYTZURmwyWm14enpMSlB1VGMyX0ZVY1dRT083WFNhVGdVSm45YzdwNzdQY3dfZVkxcV9abU16cTd5RWktZF9CVmkzS1ZtUUVSTUFld1NMbEtOMUJ4alZhcS1GM3JVNS01MF91S1o5S29KejlIR3dkMlBxb2FoWTJKLTBiX1JfNmpBM1NMWm54cFFTQUhlWnIxbjlmVGNiLWdEWHBGQS1fU3BvS2RZV3B3TmJ2WV9hM045RDV5ZVFfZkxRQW0tb2Fn?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A483",
+          "titre": "Équipe de France : un choucou de Zidane déjà forfait pour le rassemblement ?",
+          "media": "Onze Mondial",
+          "date": "2026-10-29T17:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXB3SW5PSm84a3Fxa29zY1NHaHVCbWdVU2hOUGNWSnRtLVVOT3dvT1kyR05samFIYWpjaUNkeWozejdnQktVZUNRc2I5dVpFdjk2RzRwZ2U2OUlfc1QzbkYxX09wYzFEMlZ1T3Z2Y20yQVNYVWRWend1RFdzVHFnTWRDcEhUb1lXZ1ltR3ZqMndMb2VGcmpHQ0U5T0s4b1RpenJIY201OVNIX1RQU25UNk5kZGZLQWkxRlpDQkl3OEFMLWs?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A54",
+          "titre": "Equipe de France: Nouvelle tuile pour Zinédine Zidane !",
+          "media": "Sports.fr",
+          "date": "2026-10-30T14:45:31.000Z",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVVpN0FoMWxUM2hyRmZUdzY3N0ZpV3RFTUY2bTBrSERQTDRycW84ZjJlYlI1Und5VVNTT1pFOS1fbW9jTklPRjF3bU5qMTVaLXlERzFGeWJTZDZ2T2txUGlPS2RQM0duNl8zcFlfNGVsTHowZ2k2SWJwb056WVZGZXBTN0ZEMk9VaGFjSFFIR1F0WHo1aGN0TUR2Uk5pWDdaY0JYenFxMA?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A36",
+          "titre": "Foot - Un gros coup dur pour Zidane avant les prochains matchs des Bleus",
+          "media": "Le Phocéen",
+          "date": "2026-10-30T15:06:34.000Z",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1R4NnV6V29DOE1zS2xwS2pKTjlCSkNIV3lGYm9XLUd4cWFDUUpwVUJtRkNtSGtLYV9DUVNjdUhCSHd4LXlWNW92RllZS0diTWp4bDloN1dFb2xtaktuNGlxdzhvaThxYmJaTEVXNDFIN3pqUm1ka25jT0RiTHd1MWYtVVBMWDlMMUJBM1FnSk1zc1pjbWJ2ZXF1RXhnTEkyN2tfRnJ0b2xmUm1tMVNZZHRnYTUwUQ?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A38",
+          "titre": "Lacroix forfait avec les Bleus en novembre",
+          "media": "Eurosport",
+          "date": "2026-10-30T15:05:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNQ2Z6YXVrN0lPa1pUU081dDVUUGJlTllmcTN1czl4N1c0UFJnWWVHaUFaZ243WG4tTEJObmZjcmdES2NuMGI5RWJUcTB4dUJmV0hIQ3c3bzJ4SjdUc09lWWdYN2NFbnA5Zjd2bFNyRWRTNVdXYzdVdEljYjJ3VWxKZEZrcThQazlKc01lbjVKMWtZQWdRbHpzaFBxSGlScTJsclMyLWNwa09iZFVhUGJzZGFfcGZSelNtN0Rla0xLMmIybEhyM0lwaWFENjhfVkJsdGtFMDFqNXZhdkRhRHlLZnhTam9wQVFZamFSQnFfeUtWNy1NZFFCUmF1Rm02ZHFtcG9RRGM0Szg5cHdlY0l6R0NNX1dSTVVHeTZES1AxVWQ5cTN6ZFE?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A25",
+          "titre": "Un nouveau forfait pour les Bleus",
+          "media": "SO FOOT.com",
+          "date": "2026-10-30T15:21:47.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3haRDZ6T09lMjNyZjFJdmhEcmdtQVdCMjcwRzNJcm1zSTBuT3dZb0dSNDZLcno5QUxvdUJTSFVzZWZ2eDlyMC1hVzM1cWFxd2oxRkVOcldjTGtzakhkVHA4aW40OUpQSjlSZ1M2WkRrUFJhb3ZHTGtVb3JCclllcDE4Sm9SMlFIMk9PSGNtYm91WmJxWk9JTXNMSQ?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A99",
+          "titre": "Un nouveau forfait pour Zinédine Zidane et les Bleus",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T13:45:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSEVzOEVXWVRtWUpBQWdEeFEtX1hJcUp4UHE2TUlhdzR3dmt0MHpxV3UtYWluUlI3eHFFNS1TMS1lTy1FLTVKcGpGeXRoZ1paQXNpSU1ITXFzWU1NbXJOLUNaQVdWSzJ6X002Tk5zaTBhdnp3QXZ6RVpnXzFNVTVQVzBiaWp6LXlzME53TERVa0hXaW5Ic2xCeWJodGNvdTRMazg4?oc=5",
+          "requete": "Google News : équipe de France football"
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "titre": "Lille – Lens : le derby du Nord",
+      "resume": "Affiche de la 9e journée de Ligue 1 entre le LOSC et le RC Lens.",
+      "articles": [
+        {
+          "id": "A2",
+          "titre": "Lille - Lens, Ligue 1, match en direct le 30/10/2026",
+          "media": "L'Équipe",
+          "date": "2026-10-30T15:54:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkpMNUh1WjVHaXZ0RzBuVUppTEYxODctaUdXM1ZmdmNRSGt4U3NuclFsMldUOFBuNjN2TVNaT21TWHZzbUhfMmFyUFgzNjFhOFZfNW84V0ZMWWJCRmgzSjk3bVp1Nml6X1lRbmh2Y0w4Tk1ScE5FNUxCQWgyUzVCb2JDVkk3cjhrcjlRenRB?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A354",
+          "titre": "À quelle heure et sur quelle chaîne voir Lille - Lens en Ligue 1 ?",
+          "media": "L'Équipe",
+          "date": "2026-10-30T07:25:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTV9wanZVV0lvMmlJMXo4TEpLRXI0dXotd2psdTVRbERoN05ZTDdsY3Y2RXRVYi1Ed2ZDeW5xeWluUlZYVkZhVzkzOGJyRHhPUVZ4eldVMjBMa01iWDlOa3hpSW9QS2JGMkxWaklZeDNSSU5hRC1iYXZUZkRhRnd5UTVOTURVSDEwdXR6Y0VETl9zYzZEVmhibTNzUDIxT1g4WjlTZW40MHhJbVM3cUJKakV0Zw?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A187",
+          "titre": "Lille - Lens : à quelle heure et sur quelle chaîne voir le match de la 9e journée de Ligue 1 ?",
+          "media": "Selectra",
+          "date": "2026-10-30T12:05:06.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43cmoxZHB0V2wtY1FhVGRRdm02d3NYa1hIdkFQQl9NNVhsZGJ0NlltQTVSSDBhZ0ZDSTRIV1BndUhvR202T21ZNXJDa1hodVV5TWVjZV9GSk9YR29zdmNjSUpXN1Q0Q0ZtNzZ0bExYUlBBWVhwYWx2NVRn?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A405",
+          "titre": "Lille - Lens : sur quelle chaîne et à quelle heure regarder le match de Ligue 1 en direct ?",
+          "media": "RMC Sport",
+          "date": "2026-10-30T05:05:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc0VuWVl3b2FGVkx4SHpaR08xSGh2c1BXb2RwZjdRZzBsR3BUYUIwMENydjFZaEF6c3MwNTZTYXNnay1CZzNwYzZabHdXMVV6WHVLTGpDazJacFAzNFN6YnQtemtrYWNzcEtSMnZ2ZHItRkJpM2tEM3ZURjRSSnlDQ28tRnh1b1FyTXNoOW02NmRpeHBNWndkQVI5NTlWc0xJZi13UUhGMXM0M2NpSnpKWHNEd2Rxa2hfNl84UzJsMXlLQzdaRGZ3S2doTTMxSTkzNTRicHVKWm9Rb0QtYXRYeUVNUzk?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A385",
+          "titre": "Lille - Lens : sur quelle chaîne et à quelle heure voir le match de Ligue 1 en direct ?",
+          "media": "Ouest-France",
+          "date": "2026-10-30T06:10:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQa3dPSFJfTWF1MmFsNmJVd2R2UUM1LXdBczdNTi1WeUJ6ZWdhZ0w4NmNnMEFsWWo0ZXJQNU5VazVBcTVfSWJ4Z0FKZjBaOUs3QTR6R2RmQVdnSUhsUlZUbllLLXJTVEZRSTVOUkE3WUt4eS1lMlRFaFFfQldkYXJZTVFQQXVmZmFyYUdYSmI2WkxwT09MejUtMlZhU0t2bi1oQl9MNXJLWmJ1bHBIUkJZekJvUFlSeFM3ejRlUURUOGZzWWw2SmpXTDZBdkdVNGFyYy1FRXhBV3lrdi1udzBUZkpoSDU2bzllZHVLdEc1RF9iMEd1SldnQ0lnVWhPRFBB?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A146",
+          "titre": "Lille – Lens : où regarder en direct le match de Ligue 1 ?",
+          "media": "TV-Programme.com",
+          "date": "2026-10-30T13:01:48.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWVENmF4X0NXaExRS1VzOGdfdldHYVRHR1JDUmdUTUFyYmVHVzBTRFVTakkwNVVXVExLcldURjBTblkwM3FacnZQS2FWdnpVM3pOUFJRTHd2S3VSMFpaNkFOMmRrNzJWMlRSQWJfeDJuQUlaRGQ4b2NWclpyUkp6WGtOWDM1VmxxMnFRS214bkZSWm8?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A44",
+          "titre": "Lille-Lens : à quelle heure et sur quelle chaîne TV voir le match de la 9e journée de Ligue 1 ?",
+          "media": "Le Parisien",
+          "date": "2026-10-30T15:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRmlmNVlQSmpqY3VZOHZGa1dQU2VtakNkcUluLXZxV1FqN0lkQ3pYNzd3T016eGs1LUtTNjJuQWk1QWJfLVZEZWNtampyYjVRX29LcmVUSEdKRzJ1T0hFUENPTlRUbzl1eUllMmhTTW8xSHo5bWhMQXJuMlhJR0hOWjUxZVVEdXNaX1ZlSi0tVW9YQWlMWDhzaEpsdmhfblZ5NklGOUY1QVIxOWxNYjN5QnBLNmRfLTNwZV9xZVdRejU3aldBUEIySXFRN0w2bWFaOGFaSWRTaW5ZdzQ2NHZHdUJaS2htTXNKMzZ1blVwd3Y2SnIwdF9QeDlxVG5QcVNrTXl3SlNxZnpzR1FjWXFxRQ?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A140",
+          "titre": "Lille-Lens : comment regarder le derby du Nord en direct et en streaming sur Ligue 1+ ?",
+          "media": "Frandroid",
+          "date": "2026-10-30T13:08:11.000Z",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWG1UQ3BiUHFZZW5qVTlCWjFId1h0eERHMm1vZFRoMnlobFRHNGctdWVNN3h1TV9fM2lJbFU1dm9Fc0toaGk0QWFQRnk4cWplMkR5OTRLRnBNU3NJdlQ1eEowckFna2U2R1pZTHFYVHIwa05LLTBReWdlOFdCSFdvX3JralJuamZlWjVrTUU0cmRQblRJdHQtMGFFSW13eHZ6TFJxbWpMLWg5UVZ3eFhUZTZfVy12THl0cG5UYm02TmRncjJEOVVpTVhSVld4Zw?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A403",
+          "titre": "Lille-Lens : comment suivre ce match de Ligue 1 en direct et en streaming ?",
+          "media": "RMC Sport",
+          "date": "2026-10-30T05:20:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYjFFSVVKSS00Y2hOczRnQUpwMk5zeFNSY1AtV3gxXy1NMnhQdGQ3VUl0Vl9mdjlNMC1HV0hIN1FhdEUxUWtNdndhMGk5dXAtN0pyanlfX0lrUmN2LVlRY2MxenZDUGFkbWw5WVI0eTN4T3BDdjUySzRpY056VkRjbGlDcVJHOFRKbEZMOVA4SUZxd2JzMG9jY2JBLXh4T0VTNF95LXZocXJuVVR1bzA5TXc4b2Jobm5LRmMwaHY0cXNKcDBzUTN6eE11cVpHSHYzN0E?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A348",
+          "titre": "Ligue 1: Lille-Lens, un derby indécis",
+          "media": "France 24",
+          "date": "2026-10-30T07:39:56.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjdNbXpTWWVKSTZrVGpxald1WVp5TTJteUNHdUE3OW4waEt4cnFPOU1SNm9PVUhfZ29nVHlfcG0tM0IyM09NWXBCR3Z5REh2R3lVREhvNy1SSDNHc2FlQllocjJwWHpSdW9IanRId3hmNm5nOFZWQU5pRjY3c2hjUTdfcjNuRTJpN1E2YXVmbDlmRVBCRTJ4LQ?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A222",
+          "titre": "Ligue 1. Lens veut confirmer, Lille se réinventer : un derby du Nord qui vaut de l’or",
+          "media": "Le Republicain Lorrain",
+          "date": "2026-10-30T11:08:10.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdkNsQ0tvbWNUU0Flcy12SEszdXBUQ1hHMGRTNXdzYWltd3Qta1I1d2Mya2llWUM1Wi0ybzQweWdPRlZUdVNWTl9abV9sX2FPS0U0UDZYa3BBaUxlbHhGdVRCVXJQQzEtWHZSeW41M2p2dFFvZDVadDMza0p6bFl1THliZDlVcTljdzlqX0xGVHVmdXFfRUtiM1FQUVRVbjBGbzd1d0czNmplWVBrUmlaeGs0YUc0Sl9laEFDa2FHRDdkZW9WNzJGZE9B?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A328",
+          "titre": "« On ne s'est pas côtoyés, on s'est croisés » : Olivier Létang-Benjamin Parrot, le passé rémois du derby Lille-Lens",
+          "media": "L'Équipe",
+          "date": "2026-10-30T08:15:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZU5xRmtiMkhZelJZUzd0MEhWWEV3TEdKTzBycDBjdzhxQUdGcW5kMVJCMFdTcHVXeUxBUU04MER6YkhfTGo3NWI1dzg1MGxtc3gzaHBwdS1VY1ptakctaE83V0hGOFZBSjlSN3E4M3c1ZDNtVHBiVzVRX0VLT1A5OHhwUlUyQlBld3dsb0wwV1BSbGJCRlNnVV9tNGptYWtyU0RQUjk4MEVMRV9RZXI3N1dhdXFjQ29vaWZ1N2d0cGl6ZEFUd0l0d0h2NEtQbFctdXpnbWI3NDB2czQybzVDWk5USWUwSUlzcnEwbQ?oc=5",
+          "requete": "Google News : Ligue 1"
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "titre": "PSG : vers des prolongations pour Ndjantou et Boly",
+      "resume": "Le club veut sécuriser l’avenir de deux jeunes joueurs formés au club.",
+      "articles": [
+        {
+          "id": "A284",
+          "titre": "Le PSG veut sécuriser l'avenir de Ndjantou et Boly",
+          "media": "Canal Supporters PSG 24-7",
+          "date": "2026-10-30T09:34:39.000Z",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0tXSnFmSGhqQkZUWjBvVlBMZFM0VU83WVZXcFFqSXREbGlQS0VINExyZmV4Q3Y5Tmg0NWNieWlZWlczNW9TZGkzaWtDS050TVZzX2VQSlRueVJXWE45M0tjbWtUT0JhMXpNLWJOY3ZybmVmSWNyaXVSTk9iNXZDU0tYeFlzUdIBiwFBVV95cUxQYzdESklVR3FQcVR5OFhBT3pjRV93RkJ3STVjdG1zMFpveFZjaEU3eHNGLTdSNm5GZUVPYXhTekxVY0F2clZxQW5pb3pvWS1OZi1UM1g5OVJ3MEpzdmJXTFBvMGZhYjBxWXBrM3Q1eFRUei1sLXdNSkluNjg5LUVVS1lyRTFFMlhpMm9V?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A277",
+          "titre": "Le PSG veut sécuriser l’avenir de Quentin Ndjantou et David Boly",
+          "media": "AfricaFoot",
+          "date": "2026-10-30T09:54:06.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNai1sandwd2hYZmRwVlJjbW1BVXExd2h5b2NNd1p1TzI3dHoxX3JjVDFWSDZkejVMNlBhczRwVDV4WUFLVnYtcGxneVdLamMwazV6NnN1S2VMYWRXcFBTRDJiVHoybVE0R1RyQ3RIbFRZVlY1UGx3VXNkRjRRVTZWanJqaDEzMXpkWTVZd1dhMjY?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A454",
+          "titre": "Le PSG veut sécuriser les deux grands talents, Quentin Ndjantou et David Boly",
+          "media": "RMC Sport",
+          "date": "2026-10-29T21:26:48.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUW5UYnZ5QXJoVm9JLURfZ1BlS2V3ZEJ1dEhqaXdZSVVRazFEMGFGZmZhd1RyX2xkYlhWQ1RsUzgzTkQ0cEEyZGVSVFppLURwbnN4RDZtNWZYQXVRa1JyUUdOWDVoOTZiaTc5V2I5WTBkUmVsTlUtaUpPSFEwVUE0VHB5ZkFOT2RnOUtLYTJ5d0xYRkRfWlFKRFdBeVFJdzlSbkFQdXpMUDFNOTNvUXAxTU1fSEZjY1p5d1dneVdBVlpNRUh0T2FTc2JwT3lCaHZscXppYnp6ZE9kSUhR?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A194",
+          "titre": "Mercato – Le PSG a lancé les manœuvres pour Ndjantou et Boly",
+          "media": "ParisFans",
+          "date": "2026-10-30T11:49:29.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1ZSQVY0N2x1amU2ZmRreTBZdXNzelVselV5dXpMREpUaWlNMkZ5cDk5TjJkdGtMYXU3LUZRVHhhUWFPX2luSFo3bF9ZeFVfWnhaVzhydFE5UGhCUjQzNm5jSkxzblhuS0RmYzFKSXVOc0g2ZFNwZEl5V19rblFGLTNwNlFUWUsxUU9CbTQ5RXl6M1ZRbEpsNkE0MjZDSlAxM0FyT1l3OHFnUHM?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A313",
+          "titre": "Mercato – Le PSG veut blinder deux Titis, dont “une Formule 1” selon Luis Enrique",
+          "media": "TOP Mercato",
+          "date": "2026-10-30T08:42:35.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHY0TjlWNG9UVmtNSjc0VXRqeWZPQzBUVGt1c1hxVl8tU1ZoMXpqbFh1cEtfYXptWkVXZl9NZ2VJaExENGdTaFJqNUp1RHE0MGEyMjl2bTdkUi0xeHMtTER5OWZMY0dId01zNzJ6VmVjS0RPZERCU2ttUktCNE15emp1TDQ4aGwtbVNUUEFQcWpRdTlEZ09JcU5UWVA2c3VsSEVqdmdCRjhYTHdpaHhjdXN3?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A349",
+          "titre": "Mercato PSG : Luis Campos lance les discussions pour deux grands talents",
+          "media": "AllezParis",
+          "date": "2026-10-30T07:38:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2g2dlEwcHZZVWlnU3B4MkdfTUp0OFVMaC1KUmQ5RGl5b2hKNzM1QlV0UmZXZDZXcGd6eURDcFA0SWpMT0JWbVM1Sk1IVUtLRWlIcGNEQ0M2cElPM3hiSGhCYlFiaXY2LUoyLTh2ZmRRNEZuZmYxU19EdHNYTjRjSHBfdko0SWo5NndHdXRxLWk1cUF1N2ZqVC1iTy1EZVFsdGJSZWxR?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A450",
+          "titre": "Mercato PSG - Le Paris Saint-Germain avance sur la prolongation d’un crack et la signature d’une jeune pépite",
+          "media": "MadeInFOOT",
+          "date": "2026-10-29T21:46:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0dDWjA4X015YTczUkRCQi0wWkVOY2JabFJ1aHpORzNXTTVjNXExdGtLcGlkcDVFS2hQcG9BT1FHcFBOcFFnYmVkeFBLOGJKeU1Hekh2clo2YWItSHdZcDZGVkxCMnd5eDFiSFkydzFlX2lDN0U0ZnJYQ2gwQ0JCNUhQMHdjOGVlQTYxVW44QVljZXBsUktMOE5RV1o2VmdWODJUb0VIWUZuV0dnUVlJM2FnbnNLaWx3WS1IV0xlRFdIakNNS2lyZlBaUV9IQkRhbExVSk5Ca1FhSEpBSEowalFxSlZna3dPSlV1LVZNN0g4OEIwMlJwUkk0WFY?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A320",
+          "titre": "PSG : Deux signatures attendues, RMC confirme",
+          "media": "Foot01",
+          "date": "2026-10-30T08:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DSWczaGFubXRLZGdxMURCeGNLdGgzTWlEVWJaOGhwcTQwRVFyZzZURUJZWE9qOG9OMEpJRHlhczhxR0txaEdyTkFQX3hJQjVGNkdFeTZFY1JiMEs5Znd0Ml8wVmlIUE1LekZwa3p1MVo1bk9JVDdRaXFlNA?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A330",
+          "titre": "Formation : Le PSG veut blinder deux jeunes de Luis Enrique",
+          "media": "CulturePSG",
+          "date": "2026-10-30T08:12:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRFkzWHpmNGtvcEdIelZaTno4ckV2cDh6Sl95VkxUcEhFSXM4RjhHeVZUazFiTmx0VEptbmR2d1hKT1I0RlpTNXFUQnhKcHB5NUp0MlFZV1BROFAtSGh5M1pfOTM4bEo4YUVxNU9VRVBHdU0zRk5mdXNvWHFlbE1fd3NuaXpkRnhzNDRRcjloR2FrcVMzaUJBbGtUWQ?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A452",
+          "titre": "Deux Titis du PSG en discussion pour prolonger",
+          "media": "Foot Mercato",
+          "date": "2026-10-29T21:39:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0hpamJkekhFc0F4V3Y4XzduX2JxLWRQVkxkVEoxdHZoMWUzTHdKMG5wT0wwUnN4b0E4Zl9ZNEFNNGs3T1ZZanRoWk84VkpCOGJiN2U2TUFMc0R6c1JhdzdSTWMxaDRKZ0o2RkFuYzMyTGZYWEZLM0JDc1BLbS12MGV4MG54RmZKbWtuTkVCNnQxam5rVWx6UnVNUQ?oc=5",
+          "requete": "Google News : PSG"
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "titre": "Emerson soutient Valero et salue Paixão",
+      "resume": "En conférence de presse, Emerson Palmieri évoque Antoine Valero, Igor Paixão et Bruno Genesio.",
+      "articles": [
+        {
+          "id": "A27",
+          "titre": "OM - Emerson annonce la couleur pour le grand espoir Valero",
+          "media": "FootMarseille",
+          "date": "2026-10-30T15:20:07.000Z",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamR1Y2FkbU85elZHT1c1STRLOVRGX1FscjFkLTFzeDFxV0dOdURPV3E4eXlkQzZpWHdtRFk5WTY2WEFnZ1NCRDlDdVFaZHZvX2FWUjZuWTVuVDVzTzE1YkllZjNPdHp0MFdoUTY4b2tMRXU5TDVDMzFSY3p5UDJ4bmhmZHR6ZjlFQzBtOVUxOHhydzFoVmc?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A168",
+          "titre": "OM - Emerson Palmieri dévoile son regard sur le grand espoir Antoine Valero",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T12:35:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0xrTHdoNlpxTXBTcUZkSy1hOUw0V1Z3T2NTNmFXQm53RWZoWWhMVnhFajFueldmVzFZUS1aWjlHQTVKU0U5cWxwNUNZdWNsWW5vTmxZTUpFVWw3MFN4MjlpZ0dteHZ6b3RzX3FwSkprYXFWaE91MzNUVjVhYjZvZTcyaFF5UUJrUG8zLWRZajFqVGRJZDl5dTdRc0JCRWZOLXFEaTVsa08zdFdobW9IYW9UV3Q4Y2NwUHVDTnpIcloxcVZkdkh3cjRPc2l2NDA?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A174",
+          "titre": "OM - Emerson Palmieri se confie sur sa relation avec Igor Paixão",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T12:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEZMaFc4eE5DejBmLU52QWxxZjJDODRoUENMOVVOM2VvSlotSDA5Sk9sT29DdkRFbndlUGgtZXMybEhDbEFlUmxOb3JHS2JNYkpjWHVPbjlybmNCUElRdWlhUHEtcDdRd0h6UmtUMkRjNUotanNUSjhOM0lXSkxyTVBKSXFta3kxdDNweHN0Qzk3WmxoQUlPSTFsWTlaZUhqZ1JwbUhWV1A1cEFoSE83TmVxbzRJUks3U01HWjV6aWE?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A169",
+          "titre": "OM - Emerson répond aux critiques et évoque sa complicité avec Paixao",
+          "media": "Le Phocéen",
+          "date": "2026-10-30T12:33:38.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkc4ZXg1c1VpZWNNbjdURmRzX0JlcV9YN0x1bjNqWjZyTG51d3NBM3hDNWJHSGszUGx5UnVFUHNaU2M4cmw4cmxPNFhyUW0yLXhIdmt4UkFhOFNRWGt6aDFxQ1liMGl1cjlqY0kxTHVQUG14aTFuNEpWZXBvcy01VlpmYTFKOXNVV09UT2F2UzNhQ0ZLYmRySU5VNUhob2ZWOGoxUFZSREx3UlAwb1doTXh2YkhlTkpn?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A167",
+          "titre": "OM - Les mots forts d'Emerson Palmieri sur le grand espoir Antoine Valero",
+          "media": "MadeInMarseillais",
+          "date": "2026-10-30T12:35:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdU1MTmRvLVhTZWxNbXhzMFU5bV84NkJJSnpmWUM0U01nM0Z6VE52YU9jMXVKRHpoQXAwZnpZRWlGNFVRblZzNUxWbDM4OFZrajhKTDJjeExabWk0dDNDRTdiUTNXYUFlR0FzbXgyc056Tll2dDRZRGpDQnh2a1VvU2dEU3hERWh4WHdfS3lCOGVHMUhscGgzQ3I0SUlGZHpkY2xhdjFvTmo4MGl5a0tZcWZYQkpoN0NFZkxRUWpURWgyZ1hENk5LTmZidGI4NEFPdkdjMmp3?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A17",
+          "titre": "OM : Emerson adresse un message de soutien à Antoine Valero",
+          "media": "Football Club de Marseille",
+          "date": "2026-10-30T15:34:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalBrVmJWZWk0SjJYQ1N1Rl9paWNwMzlZY1NfMTA0RDJpbjEyZTF6Mi03cU1uMTR4UGk2V1dxcEdsSk90S09Sd0RpX19iZlhFaGVBZ21ib0V4VDVjVkFiWmRZZG0xSHoyOTdpRi1yOVN1eDBRYmFXSmVjMjhLOUZydy0tek1feGJwZ2pmYUJab0t4cHVNMDdBbkRfQVRydVhWUDAwS0lkelpkUF9hZExj?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A151",
+          "titre": "OM : Emerson encense Bruno Genesio",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T12:56:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXJzRHF1VjB6enpUZTNGQXRSMk9WTzd0UWhEdVFJdFU4SnJ1N1Fkc2JaVUVINU5seUNQRVotc0pLSkp0eko2ekFfZ3hMaWc0V3ZjempzZDdqRUhhX1JoZmtfTHhRdTlaeDZOczVMcm8wZzhwcXRlS1d3d1ljTjhVa2JJQUN6eWRp?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A60",
+          "titre": "OM : Emerson félicite Igor Paixão",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T14:37:54.000Z",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWg0cUVYZTlxdzBNcEp3UjR4R0NnQ0RZeW9xeWRkU2ZySzZYdm9WTXBkdDBTWXcwNnFoY0hOclNIVlVsb1ZzYmZMR3lHSDBSMWVwaE5LN0tra0c4ZXg5YkIxakpqSkRaYWpOeGJXWDFtY2o3RDdocTM2cTRLMEdaRlhPWmt6WHM?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A172",
+          "titre": "OM - Les confessions fortes d'Emerson Palmieri sur Igor Paixão",
+          "media": "MadeInMarseillais",
+          "date": "2026-10-30T12:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGN6YlpGalEyWDcteURUdF9PNWVMYi0zWmZ0M2ExNnFnNU5ESGwxem1sY2JpZGg5TjRwLTlJUkxLQTBBa0duRGs3YTl4SHMxVS1Na1EwUnE5VC1jREpaY3l1c0ZoZnVqb2xMYWVsbTIyZXNubG5vZmVvTm9BYzU2THZrRUtyd21BOHN6WXlxSzFMOUlfTUc3V1FvTWg2T0xuUGZLM3Z0WDRpdTBPRzFDdTBqeENMTG12b1FLdGpmZjJZcmVhUnI0?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A165",
+          "titre": "OM : Genesio, Paixão, Aguerd… les cinq points à retenir de la conférence d’Emerson",
+          "media": "Football Club de Marseille",
+          "date": "2026-10-30T12:37:19.000Z",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWN6V29JSHRYTGRtSFRqWVJKZldycXM5b21zdkVpVEFIQWdsVFVvTy1FdWNPWk51SU1NOXZCLVZvTDZfNGtBV3o2cGZSR3RCd0tmc1h4VmVZT25QVVFkclRVSl9rWDdaVDNoOWZoSmJGYVpPYkhrdThHSlN0MjAtVVYwUWtMUE9uSlMweXB4aHc2bDFBZjMyOWZuelRCRGVEQUtvMHZJYXkxam5qRzB6TDBkeXRTYzg?oc=5",
+          "requete": "Google News : OM"
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "titre": "Ballon d’Or : Flick salue la réaction de Yamal",
+      "resume": "Après la cérémonie, Hansi Flick et Luis Enrique réagissent ; Mbappé termine deuxième derrière Harry Kane.",
+      "articles": [
+        {
+          "id": "A55",
+          "titre": "Barça : \"Je suis très fier de lui\", Flick salue l'attitude de Yamal après la déception du Ballon d'or",
+          "media": "RMC Sport",
+          "date": "2026-10-30T14:43:27.000Z",
+          "url": "https://rmcsport.bfmtv.com/football/video-barca-je-suis-tres-fier-de-lui-flick-salue-l-attitude-de-yamal-apres-la-deception-du-ballon-d-or_VN-202610300621.html",
+          "resume": "Troisième du Ballon d'or derrière Harry Kane et Kylian Mbappé, Lamine Yamal a très vite tourné la page selon Hansi Flick, son entraîneur au FC Barcelone, qui salue avec fierté l'attitude de son joueur.",
+          "requete": "RMC Sport"
+        },
+        {
+          "id": "A93",
+          "titre": "Barça: Flick salue l'attitude de Lamine Yamal malgré la grosse déception du Ballon d'or",
+          "media": "RMC Sport",
+          "date": "2026-10-30T13:54:55.000Z",
+          "url": "https://rmcsport.bfmtv.com/football/ballon-d-or/barca-flick-salue-l-attitude-de-lamine-yamal-malgre-la-grosse-deception-du-ballon-d-or_AV-202610300585.html",
+          "resume": "Troisième du Ballon d'or derrière Harry Kane et Kylian Mbappé, Lamine Yamal a très vite tourné la page selon Hansi Flick, son entraîneur au FC Barcelone.",
+          "requete": "RMC Sport"
+        },
+        {
+          "id": "A104",
+          "titre": "Flick sur la réaction de Yamal après le Ballon d'Or : \"Je suis très fier\"",
+          "media": "Eurosport",
+          "date": "2026-10-30T13:42:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNejNDZVRUNlltUl90TFJEam13VkZHc0RyNjVpSVdXYk9ZTVRtQ1MyM1ZFYlFMSHhVLVVDMHFlQnVEcHNWeDJ0Y3JBdW5EUzNFcWdsRWVGczAwSGIzVXBjUGd4YTdYOEN5RjBBcFBxNDFKTW1wMnNSZE1HTWdSblRCNlhsQnhhT2taVll0c2U1WDZick5GWlAzZzByY3pYMnlKUzdjcExYLXNWenlmbmZOVnJBTkZUcnN4azc4X1pDZzB4N2hMYml5OFh3UE9qTDVNNHpnV2ppeWxmcUNrWkpIV2lqNW1LblU?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A90",
+          "titre": "Hansi Flick sur Lamine Yamal après le Ballon d'Or : «Il a très bien réagi, c'est ainsi que réagissent les champions»",
+          "media": "L'Équipe",
+          "date": "2026-10-30T13:55:06.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFBGRnQtVlRaRFQ1V1B2TVBneDVRdlRBeEkwUmJpa3NhVk80R2IzeHpwZHA1REZZakZkTXRyZkU0Szc3LWFlMGpXQU4zTjBIeEdMeE43Q3l4V1JxemhEZ0w4RzJyQVZBZklNa0hMUjRJWGU2MC1lTFFnM2FnNDcyMWFTenRVVGF6aURsUUtpT0Y5eDRyVnc2M0xFYUFUUTB3d1F2eVBzYTM4S1QydlcwME1UVzhzdnVEclpVV3U5Z2dUMkZIb2pZMHZOY2NIVGVqNE5naFJhcGo3NW9QbEhHMHhHVzN5d2xIOUJnZnoxMERxVWk0?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A116",
+          "titre": "Ballon d’or. « C’est ainsi que réagissent les champions » : Hansi Flick assure que Lamine Yamal a digéré sa 3e place",
+          "media": "Ouest-France",
+          "date": "2026-10-30T13:30:38.000Z",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPNGVhRU1KUXdNaVlOV1k3azJjWmNyMW1ybE9mcWNNemh6dVhzSFF6cFJFdWJ0NVlXenhseGtfMWNrX3habGl1Sy0wNGM1YTNmRXpELWNnWEVNc2xvdmkzc1dQQkl4UmQ2a2ctWUJWOTBJWDNNUVB5VGx2d3ZjcWctUGk5X2xGb2liTXdOazhRT016T0FYVHJ4OXFSZVBHMm83Y09aaXJmN1RseFlLRjhZdWVBRmZyaFV1cU5RXzhpVVhSVDVHSmViQkcyZ3JQenl1MVhZYXJjZTJQZXZUeXY0RXpGclpUZ2lVczJnREFGa2U5eDFVTTBlRW9CSlFjMDdLTzcwdDhMaEV2MEdRZXI0M3Mtd3NXQ0I1MTk0NGdIUDJPbVFXX3c?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A170",
+          "titre": "Ballon d’Or : Hansi Flick valide le sacre d’Harry Kane",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T12:32:58.000Z",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3J6ZGNPRjJfZDlZb0ppOWlQbjBxR0NUS1NOWGVEV0VsVmFEMjRUSEFmWmRlemFYMkdwR0FIdkN5S01yOEpYQWtZSGpuM0l1cEJFS3dodnc4MWFZZzVHbUFYV2N4T2RkUUlnWGVVeHE0b1pXTXRuNVBMQnIxTnF5UDhGeHduSEgtZzlrZXJsSmVTQzE0bXZEb2VzRHFJN0Ry?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A35",
+          "titre": "Ballon d’Or: Kylian Mbappé, l’explication tombe après sa deuxième place",
+          "media": "Sports.fr",
+          "date": "2026-10-30T15:10:30.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjZLOVRiUTlldUhYdVpIT1BSQkFyMTBhdUUzSG1nTmhmM3ZkQmtua3Rib1loa2RCWGhSSUhmZHF3VTZ3UTdNWnBCaFhSNnVXNlM4YTZqbTRfRG55YjR1Nmg1SnF2X0RneHp1R2wybFNqd3NfQXliUEo3TzZfUGlqODJ5OU81cXhHUm92NHBWMmoxbjJ2QWFqNGZtM1BQc2NwZnhyN2kxYzRIVThMYmp4a1k4MjYwMkVBMEVoQ3JkVVM?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A309",
+          "titre": "Luis Enrique sur le Ballon d'Or:\"Je suis très content que ce soit terminé, c'est le plus positif\"",
+          "media": "Canal Supporters PSG 24-7",
+          "date": "2026-10-30T08:46:06.000Z",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmdpR3o2SnJ6aWdMcER4VThTMDNSYnFNV09ic2p6eXpGUm1XZmN3azczNzRkb0tQLWFNM0lDMW5Ra0ZvbnAyZ3BGU3Y5RkZZQ3Izc0ZsaXRaLXFmQk9FSU1uTTVlVkJUajFIWGpDT1pLQzdWRnMza01uek51M1RWWlhmclVVZHJGblNJQndNLXdZX1pxQWtfYTcxMkppOWo3eWgwWnBQdHl0NEtzckFzQ1FsbmFXWVBnNDBPRmQ4c9IBxAFBVV95cUxPNFc4ZVdGd2IxTWVhOFdydElvUkt0N2xkOUdyc3VnbEZ4S3FfXzV0QTlxLXJUbjhEa3l3ckFpdjFGcTNSdG5RTTBjbV9LOW9uZUIyZ1ZEc1cyU2NJemItZDF0Rno5ek1GM2RnRjVDc1NCV2lVeXA4NGFob09hR2p6WktPald6VG1xU2VmUDE4X0lILXBOd040X1hkREUyVlFqT3NPeXdhb2VJMkpDZVZUbkx5UlRfZjRaU1VZVXBqVVBNRXJt?oc=5",
+          "requete": "Google News : PSG"
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "titre": "PSG : la baisse de régime de Ferran Torres",
+      "resume": "L’attaquant ne marque plus ; Luis Enrique lui maintient sa confiance.",
+      "articles": [
+        {
+          "id": "A101",
+          "titre": "PSG : la lune de miel est terminée pour Ferran Torres",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T13:44:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGNjX09TcjNpQlNTdVlPWnJDaGplcWRjQkFNd2xXRVJ1NEhIZ1hjZURmN0dQUklSY2pOaEtKODVBemlHYXN0RzQta0o2bW16b3dTYnBUSWZvU1hqU0FxSkxDMFFhdmtFWUg5U0NGeHRiQ0hVUFUxMXI2c0JQY0lFVC1MT3Z6SnM2Q3RobXdIMHY5Rmp2aVR2bUpvZTliRnpXeXc?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A323",
+          "titre": "PSG - La baisse de régime de Ferran Torres ne change rien aux plans de Luis Enrique",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T08:26:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFBQd3JnZ2VHNnYxSFB2N1VyelNzU3dobTdPRmxlMGRUZGJPT05hWjI4YWQ2eFhmdDg2blNjTnNYcFJDZlpLRkVzY216NjlaX1paMEZGLUxEdEtQTEUwVVVkOGc0U05uLWRqWnpsSFZkNVhVVUJ4Q2Zyek1xREdtUkJpUWxZcTYtMzZaRXN6OTR1WlAwNlNZOGNIdGJzZnBKemZvR3l0LVRxb183TXVzMkVabU5DQmppejY2bUJkZFBaeExBdGJLd0VydTFCaGpLeUtzYTEwUnVGQQ?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A274",
+          "titre": "PSG : Ferran Torres ne marque plus, Luis Enrique le félicite",
+          "media": "Foot01",
+          "date": "2026-10-30T10:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGg1OFpBZV93bDVjVlJvV3VpbFVLbmI4SzFXMDlvM00zSy1iS2ZKMEIteXhvbUpaQXFHakxQOW5WQ25BV2R6ZFpxeHlEa0JvTnBienRNcnBscXFDSzlYMGtoVXA4c2ZzejRVYTc4eXYyc2ZpVlVmY3hfXzlxb2s0cmFfZy1mYUxjSUVXYXZORQ?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A334",
+          "titre": "PSG : l'entourage de Torres reste serein",
+          "media": "Maxifoot",
+          "date": "2026-10-30T08:02:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZmVGSHhwZUlMZ3VRMjA1Y3hLNllHS2FLTFRXdXo0V2F4WE1XTVJibURTTi1RYW12QThjSnZRUlYxTEIxVW9WV3o1cGpRc1FOYVdaZGJQdVdlQjc4TkhkR2d0M1kzUWM3dkN2bnoySkdpcXZRbFJOQ2I1Q0IwRW9pRm42V1NSd9IBhAFBVV95cUxPN3ZHeFZtTk1zZHZIdDdTVmJlRHl6dnI4U0ZhOE9BdlVQLXR2cjBVODBEMzF1LUcyVXlhZkM1bE1tcXFCZ0xmaks5TzNuLTVmNnRZcWdrWFl3WDhkVDZlaDg0QlJEZmM2b2l6aDh2RVFpUjB0MVVudVRHbml1dUlVeGRMYzg?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A329",
+          "titre": "PSG : Torres, le coup de la panne",
+          "media": "Maxifoot",
+          "date": "2026-10-30T08:15:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTSFZzNjVuN2RGU3kyRFc3bHNWUDJ2MGFUMmdLUmxWb1k3aGVOMFVBUmNLcl9BbWpTMjNwZ1RWMGtwMENBT3NjRXZKVmUySHRHWE1HaHZNdERoNHlk?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A294",
+          "titre": "Club : Ferran Torres, un simple problème d'efficacité",
+          "media": "CulturePSG",
+          "date": "2026-10-30T09:13:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGFKbHM5ekc3aU5jWWZSQUpkUmtjaThDNTdfaWJOMjdNbWJ3MFI2cjhrUnpPMjFfQWdUWTJ2dXhtdHVHQXVJMTR4alNHVTJpYjhEcnp1OFNGRXBVaGFBQ2NMdHhDdHg0dmF2eE9LZzdtV1ViZHpxYVB3WjRiaHJicUpfUU9Na0g4ZmZ4cl9RUWktdw?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A71",
+          "titre": "[News-Pros] Aperçu : Ferran Torres se prend des taquets par derrière de 2 joueurs du PSG dans la bonne humeur",
+          "media": "Les Titis du PSG",
+          "date": "2026-10-30T14:25:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVU0NlQ3S0FpZnVvZHRoV3FNdUpISlJacDVhUWJXRm9kb0VzWmtmdVdQdzBRWmdZOFpWNjNqOUJjbk5ZeklHQWZvNHFJTmNZTEIxcy1BYUwzVzFSdnJXdUR6MHhZUEpPTEhqekpCNGEzWVlQWENzRWNLeE1IdmdUTFVUeW9WZGI3dHVTQUVZb1NJMUQwQjNXTzlaQlYxQmRRdU5YbTg4cUZzaFppTDFDdFpOT2RqR19wWUhuRTN6NnRQVHB4MGdtMEJNckNKSndGN2E2dEExQU9YSk1RX2FDc2I1YmNUbHZ5UW41Vw?oc=5",
+          "requete": "Google News : PSG"
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "titre": "OL : Tyler Morton forfait face à Angers",
+      "resume": "Le milieu lyonnais est forfait, avec un risque d’absence prolongée.",
+      "articles": [
+        {
+          "id": "A158",
+          "titre": "Le Lyonnais Tyler Morton forfait contre Angers : « Il y a un risque d'absence prolongée »",
+          "media": "L'Équipe",
+          "date": "2026-10-30T12:44:12.000Z",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHB4Zjd4b1RIT3RpWFUzR2xLNWk4TUhWUTQ2OWtXNDRPU0ZCbWdpbm1jRXFXT3lIRk1wNHdUWWRQeU9JaVI4MVFRVmRVRzhDaWxic3U1WGlmMDczbDM0VlJXazVha21zaE5WRUdBSndobjRoM1BmVXdWUEZOTWYxajYxdExEU1EwVHdvejV2Y3ZCN3FreWktc3B6ZXh0NW9kZ0xDSW9zYlpkTWFibDAwTVZNeVZvTzB4ZWtRRlFwOA?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A117",
+          "titre": "Ligue 1 : Tyler Morton forfait pour le prochain match de l’OL face à Angers",
+          "media": "Le Figaro",
+          "date": "2026-10-30T13:30:28.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONU4zZVppUmlFQ3FfUk5YWW5keHdKRVRneGRNZ1Y2TEQ5MXNXVC1VcEJsUVJWUHZ5SkhlZFFybWhOTnFjNG9OdUdqTHJERkNodmtyWlVhTXZrQ0szc1dXc0hYT1g3UExfUkZxcUxkTi1PT0poY3k2STNFblBTcUJDb1Mybnp5djBhaXUxM25MZlZ0QjhVVzV1VXJPUDlPajExc0tzUS0wWWZmdVlVQTladE0tNTNlT21qOUF4US1CQTNRZ2paa0p5TDNR?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A143",
+          "titre": "Ligue 1. Juste avant la réception d’Angers, l’OL perd un cadre avec « une absence prolongée »",
+          "media": "Ouest-France",
+          "date": "2026-10-30T13:05:40.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZnBXV1VSMEREZWVSR3pkU3ZJb2VnZkNOTFlHUlZBYmRBRk8xMVh5VkNiMGdpTFZnaDJJMzRhVWVUVnlaM3o3WDZxdHpVdGY0Tm1fRDBWNTN1aWlvN2luWENGYm9nSXJrMXZLcExYOTRUdXZkQkMteFRJdGdVdGV2LXRfT2Z6b1VIM1ZIZ2hyNWd6VE9Hd0VmczVMMGtVQm9VRGQtRHd4SDZoeGV6SmlNMlg5NENjQmpuSlBtVnVUSVhzcUZIQTZYRUdNdk9Ub0NiQkRqZmtxbUlQRVZfYnQyVUc3bllBaG5LbGwyVGRLMWNHVl9BU3Vid1hFSFVVQVF1aU1rOHcxMVlKOGp6cE5TWl9n?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A109",
+          "titre": "Ligue 1. OL : Tyler Morton vers la chirurgie et une longue absence pour sa pubalgie ?",
+          "media": "Le Progrès",
+          "date": "2026-10-30T13:38:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0V5cGVDeUJLYkNCSTAyME9MVWVfUE9TU3ZRaWVsN29KaTdCWU9kV1o1NUJ4MW94TzdLWXRFVE4yV0t0NkFhSi15Z3cxaFlpWFB1TnFfSUdELUw2bk5LakU3YVQyZWxkaWdvcGVFYmcxcTFmMGR0T3dLd0lCcjJSdDRQT0M4bVk?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A102",
+          "titre": "Morton forfait contre Angers... avant \"une absence prolongée\" ?",
+          "media": "Eurosport",
+          "date": "2026-10-30T13:44:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNFM3cktqbmotVUkzZXh3VHVrVGVES3BlZ1d2c05DdU5kY19TeW04RHpoY3NiRWJxUHpmdFFpUGdDdm5yZk05ZnVrX0h1M2FWdmFXT2c2SEFWQk1DOVlJdldPT0lNZ1RtRHpuVHczUTJLVkJNZmhMVUMwU2QzSm5mNjNtVnZfX0p5UlI2a0p1aFBCalZZRDJ0RXVESDdHZEVuODRka3JmNTJQWkRELUpKa2tYak40WjhGaXBmc3FYeHFEeGtQU3Z6WFoweVNXYmk0Vl94S3B3ZUNjY3JJX2EwUUFjLWcxZDhpWTg0NWZMYkhaVmtIbTY0ckN3?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A138",
+          "titre": "Tyler Morton forfait contre Angers : « Il y a un risque d'absence prolongée » | Foot - Ligue 1",
+          "media": "L'Équipe",
+          "date": "2026-10-30T13:09:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDl6WnQ5YlFiUS12MTExdGNPS3dWZjc5aEpXV3pMcEh6ZmNNbTZpQVE4ejVPYTVlbE5zUVhRX0xTcENwdHZTeVQ5SlZHVWkzOTZQdHZHYmgzdTZudkF6Mm1HVUNOeHprRllEckMyLXZYNmUxYVVIczVvUE5MT3J1YUdCYktLbjJKZUZGN3JlMmQ5MnFfSjI1UkRWRUY4UzZIT2kwZERXbF9IMDVKdXFsa2pndGVSZDZ6aTl1ODBmUnpuYzRn?oc=5",
+          "requete": "Google News : Ligue 1"
+        },
+        {
+          "id": "A147",
+          "titre": "Khalis Merah sur l'absence de Tyler Morton avant le match face à Angers : « La santé passe avant tout »",
+          "media": "L'Équipe",
+          "date": "2026-10-30T12:59:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMWhTeWVJdHpiczdaVG9DYm1iMGE1d0Znd3NKcGFVSzdnX201aFlyMTlpNlJJeVdVd3ZsSko5eDEtMkhjUGh5cTVZNlV4Ry1MVFZCM2tIdHpzdC1OQkFuUDRUblBWSDM0bHpxWFhDNGhiWFVuVVJKWjdseXZJWUtTQlVrOXpaWFNTMWQ2c0QtZkFFYkJJXzBsZWcwdmkwVXVGSGFnZHpscG5iMG5nelhtRlE3Y3dBMmJkS2l0aDc1VE9EZ2lyeFJ0TmlmWGFaYnIxREh1d0hwNV9hYWVVUWlfTFNCUVBvLVk?oc=5",
+          "requete": "Google News : Ligue 1"
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "titre": "Mercato OM : Paixão et Højbjerg tentés par un départ",
+      "resume": "Plusieurs médias évoquent des départs possibles de cadres marseillais dès janvier.",
+      "articles": [
+        {
+          "id": "A379",
+          "titre": "Mercato OM : Igor Paixão dans le viseur de Vasco au Brésil",
+          "media": "Foot Sur 7",
+          "date": "2026-10-30T06:33:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFpWTUdsTHcxTHN3SElMUEtRWEtWc3NCUVo5aG1Zak9HZmhXVEJVa1dNMFg1bzRYNTZVeXo2cml5QWlOSEszU0R2eV9JR3lldDNvU3N2ZU9FcThFMFVSajFNWGV2QjBjZkpURElrR21GalRMbkQzYmJaeS03dUg0cVRPLUFDVUhyVjlLaS1VTzJSQQ?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A471",
+          "titre": "Mercato OM : Igor Paixao et Hojbjerg veulent partir cet hiver, quelle enveloppe espérer pour ces deux cadres ?",
+          "media": "TOP Mercato",
+          "date": "2026-10-29T19:34:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc2VxcUk1VDFqcFBwcFVEYXFCVmpPb0tGeVBPUEZpeDZEVU5ndlVNMGxIV3F1YnZSbW1qaDExVHF1OEEwQ1VTUTRMMTBrZ2V2Zm4yMkhTWVhOVzZidDlPTUt1RU82d3VoWUJab2VablJDVlpReWNHYkVJZWNpM3RQVE14RGxUQ25JMWxJMzVfSzViZE93NnYwX3pmbGhzSXV2bFByUkZpX1NWTm84cWVZU0t0LThmMUd6MzNkS1JLbUZYNWpHQmhIMUNrdjRlcTVDSVRuOUtiRmg?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A192",
+          "titre": "OM : Igor Paixão ciblé par Vasco da Gama, un départ de Marseille se profile ?",
+          "media": "Footeo News",
+          "date": "2026-10-30T11:52:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDN5S3VteXUtTGIxTXdyNVRubGFDN0NYT3JEYXR6QzV4ekJYRElrMlNBNVJ1RVpFTGVtVTRtZVhoOExvRnlqc2dhY3JVdlV0MFVxb01NYUZJRWJEejNLeVNIUXU3WU91dGlmVHJhbTFxRHNuYlpFeXR4cy1hMWhqbC16NnRKbWV2emdMZWo4OHJBSnZMOEFERldUdEIydUxZOVFXS0JoWTZFOUxtUjJ6TkVRQQ?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A489",
+          "titre": "Mercato OM - le FC Séville vraiment sur Hojbjerg pour janvier ?",
+          "media": "Le Phocéen",
+          "date": "2026-10-29T16:30:24.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDZSVk1uUldQUXJFNFk2a2FyR3hYZ1MyWXhQZDlydU90d1ZnbzdCTjZLY01kS0RrMEV0cmJzczVHX2ZnV21iWDJSMTc0U1lBc1ZCWG9zSnRkdWx1b1BCdlI1NXRwQkR0QXlXeUE1SGtLaldtc3JuTWVNVklOc2ZFVVZHSjdyd05rTHJ6Sk5RY285blZpcnFuYzBVaEEwQTZNb2FWSFNEYTdia0p3?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A473",
+          "titre": "OM Mercato : Hojbjerg vers l’Espagne dès janvier ?",
+          "media": "Footeo News",
+          "date": "2026-10-29T18:51:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbjV2RWRvUnJvbWREZWhUejRhbmwzeUh1UDVDeFc4MTB0Nkh5WnRuTi1ITndUSDBNRGJRVnhMZENhUTdzM0hiOG9xMHpuVnBWdGhfWkdfSEFMY2pzWXp0WHZRMjVmVlZIMmRwNWpubnVBeDM5anRBU2JraE94MTN3c1BEaURCTUdlVjJLenV4Zw?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A342",
+          "titre": "Mercato OM : deux cadres envisageraient déjà de partir dès janvier",
+          "media": "Mercato365",
+          "date": "2026-10-30T07:51:38.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVFxMUx3VDlvMEhJU3g3WkhHbVpZM1pFczh4WkJLcHJtRC1KVUN3REtKdERjMDJkcEJ1WlFZT291MzJ1WXJOUXMzVXRyVlFSVEswUE5QVjF1dFpLQy1lanlQVG1ya3lxWmUydU83Rmd5Nm5BbTBsc0NJOEZYWFU5a2VEc1JkWHU1LUdqWXFUY1k1c1RHSHZoOUdaeEpiNVd5UTV3MExtLXk?oc=5",
+          "requete": "Google News : OM"
+        },
+        {
+          "id": "A462",
+          "titre": "Mercato OM : deux titulaires importants veulent partir dès janvier ? Un déclassé s’excuse ?",
+          "media": "Football Club de Marseille",
+          "date": "2026-10-29T20:42:21.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRFRMNkxpMmd1cGVtX0VtNTRsb2l5TWxXQVktSno3OWJHaUE4Y2dYZnFGMkRwRXg5UkYzYWkySFlvbGhJcEQxUnE2YXhrNGxCU2M0SWJJMm4yVlFFYndkRmdIYUFwQzB6VEExRERSLWZqQkg5ZlNIdXF0cTM5ZEdRQmU4ZDJsa0tZNFljWm41ajBaMzlIRlVPRWo4cDlwYTJPX0JVWlliM1cwOXJCcENzdGxaNnNQOEZkVl81RHRhU3NiS0V5cnFmanJLbUlaZWdqTUtLaTRld1VuQQ?oc=5",
+          "requete": "Google News : mercato"
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "titre": "La CAF revient à une CAN tous les deux ans",
+      "resume": "La Confédération africaine de football confirme le retour d’une Coupe d’Afrique des nations bisannuelle.",
+      "articles": [
+        {
+          "id": "A76",
+          "titre": "Football : la Coupe d'Afrique des Nations aura de nouveau lieu tous les deux ans, confirme la CAF",
+          "media": "France Info",
+          "date": "2026-10-30T14:13:35.000Z",
+          "url": "https://www.franceinfo.fr/sports/foot/can/football-la-coupe-d-afrique-des-nations-aura-de-nouveau-lieu-tous-les-deux-ans-confirme-la-caf_8260535.html#xtor=RSS-3-%5Bgeneral%5D",
+          "resume": "La Confédération africaine de football avait annoncé vouloir organiser sa compétition tous les 4 ans.",
+          "requete": "France Info"
+        },
+        {
+          "id": "A356",
+          "titre": "La CAF fait marche arrière : la CAN aura bien lieu tous les deux ans",
+          "media": "L'Équipe",
+          "date": "2026-10-30T07:24:33.000Z",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2pTZWJaYjM2Y3lQUDJEUWM2OGFDVGRnVU1xbDFiakVaQ0FyVlhYVlJFSk01M1RHaVp6V3ZuVXdnN2NUbjNqUVBNQWVKWGViS19YRGpaUGIwTDdJRS1iRE1QaEtHcTVoTFRXQTVzMGJkalREMlFweVVuRGg0YUhBSEY4YlZDRklpbkM1ZU1ZNVQ0S0VNbThCTW81NkNKVlJRZ3NBdHJERnpyN1V3cEg1Y1U4dEdqMWs?oc=5",
+          "requete": "Google News : Ligue des champions"
+        },
+        {
+          "id": "A345",
+          "titre": "La CAF rétropédale et officialise le retour à une CAN tous les deux ans",
+          "media": "20 Minutes",
+          "date": "2026-10-30T07:41:01.000Z",
+          "url": "https://www.20minutes.fr/sport/football/4258820-20261030-afrique-ouf-caf-retropedale-officialise-retour-can-tous-deux-ans?at_medium=display&at_campaign=149",
+          "resume": "Alors que le président de la Confédération Africaine de Football (CAF) Patrice Motsepe avait annoncé en décembre 2025 le passage de la compétition reine du continent à une formule tous les quatre ans, l’instance vient de faire machine arrière",
+          "requete": "20 Minutes"
+        },
+        {
+          "id": "A376",
+          "titre": "La CAF revient sur sa décision et confirme le retour de la CAN disputée tous les deux ans",
+          "media": "RMC Sport",
+          "date": "2026-10-30T06:37:16.000Z",
+          "url": "https://rmcsport.bfmtv.com/football/coupe-d-afrique-des-nations/la-caf-revient-sur-sa-decision-et-confirme-le-retour-de-la-can-disputee-tous-les-deux-ans_AV-202610300187.html",
+          "resume": "Alors que la Confédération africaine de football avait annoncé le passage de la Coupe d’Afrique des nations à une édition tous les quatre ans, contre deux ans auparavant, l’instance a finalement fait machine arrière, ce jeudi. Les prochaines éditions auront lieu en 2027, 2028, 2031 et 2033.",
+          "requete": "RMC Sport"
+        },
+        {
+          "id": "A377",
+          "titre": "La CAN se tiendra de nouveau tous les deux ans",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T06:36:22.000Z",
+          "url": "https://www.footmercato.net/a2539430389484070950-la-can-se-tiendra-de-nouveau-tous-les-deux-ans",
+          "resume": "La Confédération africaine de football (CAF) fait machine arrière. Après avoir annoncé sa volonté de faire passer la Coupe d’Afrique des Nations à un rythme quadriennal, au lieu de deux ans, (…)",
+          "requete": "Foot Mercato"
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "titre": "Megnan-Pavé reste à Montpellier malgré le PSG",
+      "resume": "Le jeune milieu montpelliérain explique son choix ; le LOSC serait aussi intéressé.",
+      "articles": [
+        {
+          "id": "A218",
+          "titre": "Mercato MHSC - Laciné Megnan explique pourquoi il a choisi de rester à Montpellier malgré l'intérêt du PSG",
+          "media": "MadeInFOOT",
+          "date": "2026-10-30T11:14:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOFFjaWhJeUtGWE9IUkZtLTRUU3dwSVBMQVdKTUhZMUNGdnB2NGVFbWYtR1hESGYtMW1Hbm5sMGVEd2FRcmp4U1ZveUVORGtZSV9kdEROOE1PanhrSW5HR2hZdV9YNzBQb1ZvYkRlcmxQOVZPeWM4UUdTZENHYU9fRkkwdXBTU0NqbV80WnVlZnhfdV9JS2Ywcnl1UHJyb3B5NUlQR0dKV29wZUlQTHE0TG9FamZrVmdQM2laMmZhTVEtY3NfalBEN1EwVlByX0dyY2JxZEJLUWtSQ2pyZlNoOE52dFpmb3dJaXlVYXJ5dDFQRGdxRFd6Zw?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A263",
+          "titre": "Montpellier : la pépite Laciné Megnan-Pavé la joue cash sur l’intérêt du PSG",
+          "media": "Foot Mercato",
+          "date": "2026-10-30T10:15:32.000Z",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaUpXVHVScUt5dVFhTFhKNFA4cWkyWEFHQk04Wi14QmJucG5uTmRIUWE5NWJUbXRyX0FrLTlSUFFCSDQ0N3IzcmdqanhzNzNnVTNWNlVhM3d0bDJLc0VYS29uRFVFd1JjWEJEdGFzM0Y2a2piR1gwYjA4bmhLdXRpV0hIbkE2UjMyMGFUeTdYTzhNZE41c3N6eFhqaTNyR1Y0bW9pRzF1cm9VbnBnbGxjeG8zU21iQ0IyTXBDb2gyaw?oc=5",
+          "requete": "Google News : PSG"
+        },
+        {
+          "id": "A443",
+          "titre": "Mercato – Le LOSC prêt à venir concurrencer le PSG pour le wonderkid Laciné Megnan-Pavé ?",
+          "media": "TOP Mercato",
+          "date": "2026-10-29T22:01:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVmhOMmlXSXJPRWU4MGN2aFBFMDNrdG5kdmxuci1RaEFSSU9yV1RBQlJhSnU4Y3NPMGpjaXRTelkwaVhCOTdlWnF0OC1kc1JVQjk1MGFtZWIyYmlTOWtrTkRoOFJZN1pYNUdlb0pOV0JNdjBLWGw0Um9WeFUtelJZbGhCdjRsb3AwR2pxOUZoVWtScVU0QzZxczg1SnJ6dnpxa0cyVzNOQWRma3BJM3VsejJyYTFUNEFkRXFIRS1n?oc=5",
+          "requete": "Google News : mercato"
+        },
+        {
+          "id": "A107",
+          "titre": "PSG, LOSC Mercato : une pépite à 15M€ lâche une réponse cash sur son avenir !",
+          "media": "But! Football Club",
+          "date": "2026-10-30T13:40:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3lDUzZ3aUtmTDJZZ2Q5eU5fUUh1SjFFZm41OFVCVm1wdE1iX3lDR0VmYVExVjRaME51TUttSnd2TTRaM1lpdGNueUZ2NjNSamhBLVdmdzQtODQyRURaQ3FpNEM4bkx5MjFyeVZXbHp5dW16UmdHVTBjcmdiakE4REpXR05XM0Fab0FsQXp6Y3VrUlZXWE9BVFM2WktoRE96bnRSUnBtVTdIeHlTQ3k5a2pR?oc=5",
+          "requete": "Google News : mercato"
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "titre": "Deschamps pisté par la Juventus",
+      "resume": "Plusieurs médias évoquent l’intérêt de la Juventus pour l’ancien sélectionneur.",
+      "articles": [
+        {
+          "id": "A28",
+          "titre": "Didier Deschamps mérite mieux que la Juventus... mais peut-il avoir mieux ?",
+          "media": "Eurosport",
+          "date": "2026-10-30T15:20:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZXktaTJNQlVTWEZlSklJRGlTNmtPbm1VSDZzbmZnQ2ttVDMzT2RDZ09HNS0wWDZCMkM3VVVPaFRaRGRZOUZiSHkwRGpFSE5RVUhwUlhQdjlDSG1neHctSG1iOW1UM2hqN3BzS0VuZHEyMnpZcGRRcUZad0VrdlFLZk05YkhnUk5PT2p4MjlRYkZhUXhYaTdtYVlJQmN1NjdUbW5wcnNLdE8wNHVxbEprb09pbEVsejFPQ2pEN3VtSTdLM2Z4akZtcmhObnlGaDdZUE9GaWY5TkhvTDJpaXZsMF9fVQ?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A478",
+          "titre": "Foot : Didier Deschamps pisté par un grand club italien ?",
+          "media": "Le Figaro",
+          "date": "2026-10-29T17:43:25.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUk1dWpZQWIyc2w2T3p1c09abWZjVmphd2VlNjllSk9qTDhWTllkRVpFQVZyaGlBbHlCSkt0S3p2ZVVtWFlrV2MyR0pvR2JYOGVSajlMSVhncWlJeGdBcTNGZzJMOHBUangzUmN6THZ0SElXdE5vTkl2TkwtaUZjSnlPQTY4YVFvWXNKbVZXVkFRTmY4RVpUYlV4V1h6bHNxX3pGc1ZLajFseEdaeHc?oc=5",
+          "requete": "Google News : équipe de France football"
+        },
+        {
+          "id": "A480",
+          "titre": "Football : Didier Deschamps va recevoir un hommage en 2027 après ses 14 ans à la tête de l’équipe de France",
+          "media": "CNews",
+          "date": "2026-10-29T17:19:16.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUx6eW9KSGVzMVhhZmUxUmRWcy1DNUdKdTdiR1U4bkxlNW5sa185YWloeV9fWFVwR0tTNnkyRUNNcnBIdnN4R3VwZkZSR1E4UkN6YklCeVJaVjBPb3NZVnhtTUpDMUJNdDBVaUQxMVpvZTZHT045eWpUMTVhVjlPdVFlYkJBZGNOVDUyTF9iaTBlNldsdG1UdXBVZlNQX0IteXhXam1BYlk3cUVsSzV5RHdqV2dVU1JYRnJN0gHAAUFVX3lxTE1ZWVFVM3pYX0U1STBDeThueVBrYzVlRTNDbl9JZmQwa2RZSElTTFlqTEJhQVJINHpVRnZ0OUlQWVdZN0M4YlRXbDNmdGFuTVhmNlI2TnpjYllwMzQ3TG1jRFpsNFVXeEhZZmhmb0FkcUg0SDNkNXVkNGJLekR2emlGNHBwNHlSaEM2Ylg3SUdRcXNZdlZIWm9TYXpla0dDNkFxaXM5YU1QNzhZVDJMWk8zbXRjZkE5RFJNZ1VkNnlydw?oc=5",
+          "requete": "Google News : équipe de France football"
+        }
+      ]
+    }
+  ],
+  "erreurs": []
+}

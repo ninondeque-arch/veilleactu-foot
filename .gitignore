@@ -1,0 +1,15 @@
+node_modules
+.next
+next-env.d.ts
+*.tsbuildinfo
+.vercel
+
+# Secrets : ne jamais publier (.env contient la clé Upload-Post)
+.env
+.env.*
+!.env.example
+
+# Données personnelles générées en local (les exemples de data/exemples, eux, sont publiés)
+data/veilles/*.json
+data/carrousels/*.json
+data/*.log

@@ -1,0 +1,164 @@
+{
+  "id": "exemple-mbappe-chine",
+  "creeLe": "2026-10-29T08:00:00.000Z",
+  "exemple": true,
+  "noteExemple": "Exemple pré-chargé pour la démo hors ligne. Les sources sont de vrais articles (liens cliquables) ; leur contenu ci-dessous est un résumé fidèle rédigé à partir de chaque article, pas le texte intégral (droits d'auteur). La slide 4 contient volontairement une phrase non sourcée pour montrer le blocage de l'export. Bouton « Réinitialiser l'exemple » pour revenir à cet état.",
+  "sujet": "Mbappé et la polémique en Chine après ses propos sur un mème de Mao Zedong",
+  "titre": "Comment un mème devient une crise de réputation en deux jours",
+  "sources": [
+    {
+      "id": "S1",
+      "titre": "Mao Zedong un «dictateur»: pris dans une controverse, Kylian Mbappé s'excuse",
+      "media": "AFP, via Noovo Info",
+      "date": "2026-10-27T10:03:00.000Z",
+      "url": "https://www.noovo.info/nouvelles/international/article/accuse-doffense-aux-sentiments-nationaux-mbappe-fait-face-a-une-levee-de-boucliers-en-chine/",
+      "texte": "Kylian Mbappé a présenté des excuses après la diffusion en ligne d'une vidéo dans laquelle il plaisante sur un mème associant son visage à des images de Mao Zedong, qu'il qualifie de « dictateur chinois ». La réaction en Chine a été rapide : trois sponsors (Dongpeng, Mengniu et Milkground) ont mis fin à leur partenariat avec lui. Le groupe audiovisuel public chinois CMG a suspendu la diffusion de ses matchs et de ses publicités, et la plateforme Xiaohongshu l'a empêché de publier. Dans un communiqué en français, en anglais et en mandarin, Mbappé s'est dit « sincèrement désolé » et a affirmé avoir « un profond respect pour le peuple chinois ». La Liga espagnole et le podcast qui a diffusé l'extrait ont également présenté des excuses. L'article rappelle que Mbappé est très populaire en Chine, que des mèmes similaires le comparent à d'autres figures autoritaires, et que d'autres sportifs ont déjà été critiqués pour des propos sur la politique chinoise.",
+      "extraction": "complete"
+    },
+    {
+      "id": "S2",
+      "titre": "En Chine, Mbappé perd deux sponsors après une vidéo très discutée",
+      "media": "24matins (Jérôme Nelra)",
+      "date": "2026-10-27T14:00:00.000Z",
+      "url": "https://www.24matins.fr/en-chine-mbappe-perd-deux-sponsors-apres-une-video-tres-discutee-1423077",
+      "texte": "Le mardi 27 octobre 2026, deux groupes chinois, Dongpeng (boissons) et Mengniu (produits laitiers), ont annoncé la fin de leur partenariat avec Kylian Mbappé. Ils réagissent à une vidéo qui circule sur les réseaux, où l'attaquant semble plaisanter sur Mao Zedong. Les services de vérification de l'AFP n'avaient pas pu, dans un premier temps, confirmer l'authenticité de la vidéo. Le sujet est très commenté sur Weibo et suscite des réactions hostiles, certaines réclamant des poursuites ou des dédommagements. La polémique survient au lendemain de la défaite de Mbappé face à Harry Kane pour le Ballon d'Or 2026.",
+      "extraction": "complete"
+    },
+    {
+      "id": "S3",
+      "titre": "La Chine affirme prendre \"au sérieux\" les excuses de Mbappé",
+      "media": "AFP, via Paris Match Belgique",
+      "date": "2026-10-28T08:51:00.000Z",
+      "url": "https://www.parismatch.be/actualites/sport/2026/10/28/la-chine-affirme-prendre-au-serieux-les-excuses-de-mbappe-W6G33YRH4RHNFB55SY76JZFFHE/",
+      "texte": "Mercredi, le ministère chinois des Affaires étrangères a déclaré prendre « au sérieux » les excuses de Kylian Mbappé. Mardi, Mbappé s'était excusé pour ses propos sur Mao Zedong tenus dans le podcast The Bridge, dont la vidéo a depuis été retirée. Plusieurs grandes entreprises chinoises avaient alors rompu leur collaboration avec lui. La Liga a aussi présenté des excuses ; le Real Madrid ne s'était pas exprimé à ce stade. Les médias d'État ont évité toute mention de Mao. Des critiques, dont des propos racistes, circulent toujours sur les plateformes chinoises. Il n'est plus possible de s'abonner à ses comptes Weibo et Xiaohongshu. Dior et Hublot ont retiré des contenus le concernant, et son nom a disparu des boutiques officielles, même si des produits dérivés non officiels restent disponibles sur Taobao.",
+      "extraction": "complete"
+    },
+    {
+      "id": "S4",
+      "titre": "Le Real Madrid s'excuse auprès de la Chine pour les propos de Mbappé",
+      "media": "AFP, via La DH",
+      "date": "2026-10-28T06:57:00.000Z",
+      "url": "https://www.dhnet.be/dernieres-depeches/2026/10/28/mbappe-toujours-critique-sur-les-reseaux-sociaux-chinois-malgre-ses-excuses-VKG3JYLMG5CNFFHCKNFHDFZPTM/",
+      "texte": "Le Real Madrid a présenté ses excuses à la Chine après les propos de Kylian Mbappé sur Mao Zedong dans un podcast. Le joueur a supprimé l'extrait et s'était lui-même excusé la veille. Ces déclarations ont entraîné la rupture de collaborations avec trois grandes entreprises chinoises et la suspension des matchs de Liga à la télévision d'État. La Liga s'est également excusée. Le porte-parole du ministère chinois des Affaires étrangères a déclaré que les excuses étaient prises au sérieux. Les critiques en ligne se poursuivent, certaines à caractère raciste. Les comptes du joueur sur les réseaux sociaux chinois sont devenus inaccessibles. Dior et Hublot ont retiré les contenus liés à Mbappé de leurs comptes Weibo.",
+      "extraction": "complete"
+    },
+    {
+      "id": "S5",
+      "titre": "Chine : les excuses de Mbappé entendues",
+      "media": "Maxifoot (Youcef Touaitia)",
+      "date": "2026-10-28T12:00:00.000Z",
+      "url": "https://www.maxifoot.fr/info-466621_261028/football.php",
+      "texte": "Après les vives réactions suscitées par les propos de Kylian Mbappé sur Mao Zedong, les autorités chinoises ont montré un premier signe d'apaisement. Le porte-parole du ministère des Affaires étrangères, Guo Jiakun, a déclaré mercredi que la Chine prenait au sérieux les excuses de l'intéressé. La polémique a toujours des conséquences pour l'attaquant du Real Madrid : selon l'AFP, il n'est plus possible de suivre ses comptes sur Weibo et Xiaohongshu, et des marques comme Dior et Hublot ont retiré des contenus le concernant de leurs comptes locaux.",
+      "extraction": "complete"
+    }
+  ],
+  "slides": [
+    {
+      "numero": 1,
+      "role": "Accroche",
+      "titre": "Un mème, deux jours",
+      "texte": "Un mème évoqué dans un podcast. **3 sponsors** perdus en **2 jours**.",
+      "date": "27–28 oct. 2026",
+      "sourceIds": ["S1", "S3"],
+      "statut": "brouillon",
+      "modifieeDepuisRelecture": false
+    },
+    {
+      "numero": 2,
+      "role": "Le déclencheur",
+      "titre": "Le déclencheur",
+      "texte": "Dans le podcast The Bridge, Kylian Mbappé évoque un mème associant son visage à des images de Mao Zedong, qu'il qualifie de « dictateur chinois ». La polémique éclate au lendemain du **Ballon d'Or 2026**, remporté par Harry Kane.",
+      "date": "[À VÉRIFIER]",
+      "sourceIds": ["S1", "S2", "S3"],
+      "statut": "brouillon",
+      "modifieeDepuisRelecture": false
+    },
+    {
+      "numero": 3,
+      "role": "L'escalade",
+      "titre": "L'escalade",
+      "texte": "La vidéo circule sur les réseaux sociaux et devient très commentée sur Weibo. L'AFP n'a pas pu, dans un premier temps, confirmer son authenticité. Certains internautes réclament des poursuites ou des dédommagements.",
+      "date": "27 oct. 2026",
+      "sourceIds": ["S2"],
+      "statut": "brouillon",
+      "modifieeDepuisRelecture": false
+    },
+    {
+      "numero": 4,
+      "role": "Les conséquences",
+      "titre": "Les conséquences",
+      "texte": "**Trois partenaires**, Dongpeng, Mengniu et Milkground, mettent fin à leur collaboration, selon l'AFP. Le groupe public CMG suspend la diffusion de ses matchs. Ses comptes Weibo et Xiaohongshu n'acceptent plus de nouveaux abonnés. La vidéo aurait cumulé **des dizaines de millions** de vues.",
+      "date": "27–28 oct. 2026",
+      "sourceIds": ["S1", "S3", "S4"],
+      "statut": "brouillon",
+      "modifieeDepuisRelecture": false
+    },
+    {
+      "numero": 5,
+      "role": "La situation actuelle",
+      "titre": "La désescalade",
+      "texte": "Mbappé s'excuse en **trois langues** : français, anglais et mandarin. La Liga, puis le Real Madrid, présentent aussi des excuses. Le ministère chinois des Affaires étrangères dit prendre ces excuses « au sérieux ». Les critiques continuent en ligne.",
+      "date": "28 oct. 2026",
+      "sourceIds": ["S1", "S3", "S4", "S5"],
+      "statut": "brouillon",
+      "modifieeDepuisRelecture": false
+    },
+    {
+      "numero": 6,
+      "role": "La clé de lecture",
+      "titre": "Ce que ce cas montre",
+      "texte": "Une plaisanterie destinée à un public peut être reçue comme une offense par un autre. Ici, les ruptures commerciales ont précédé la réponse diplomatique. Des excuses rapides et multilingues ont ouvert une désescalade, sans éteindre les critiques en ligne.",
+      "date": "27–28 oct. 2026",
+      "sourceIds": ["S1", "S2", "S3", "S5"],
+      "statut": "brouillon",
+      "modifieeDepuisRelecture": false
+    }
+  ],
+  "legendes": {
+    "tiktok": "Un mème, un podcast, deux jours de crise : l'affaire Mbappé en Chine, étape par étape. #football #réputation #médias",
+    "instagram": "Comment une phrase dans un podcast devient-elle une crise de réputation ? Faites défiler pour suivre l'affaire Mbappé en Chine, du déclencheur aux excuses. Les faits viennent de l'AFP (via Noovo, Paris Match Belgique et La DH), de 24matins et de Maxifoot. #football #crisecom #réputation #réseauxsociaux #médias",
+    "linkedin": "Les 27 et 28 octobre 2026, des propos de Kylian Mbappé sur un mème ont déclenché une crise de réputation en Chine. Selon l'AFP, trois partenaires commerciaux ont rompu leur collaboration et le groupe public CMG a suspendu la diffusion de ses matchs. Des excuses publiées en trois langues ont été suivies d'une déclaration du ministère chinois des Affaires étrangères disant les prendre « au sérieux ». Ce cas montre la vitesse à laquelle un contenu pensé pour un public peut circuler dans un autre contexte. #communicationdecrise #réputation #football"
+  },
+  "relecture": {
+    "date": "2026-10-29T08:02:00.000Z",
+    "confirmees": 15,
+    "total": 19,
+    "commentaireGeneral": "Carrousel globalement fidèle aux sources. Une phrase de la slide 4 (nombre de vues) n'apparaît dans aucune source et doit être supprimée ; l'accroche choisit un chiffre alors que les sources divergent (deux ou trois sponsors).",
+    "phrases": [
+      { "slide": 1, "phrase": "Un mème évoqué dans un podcast.", "statut": "vert", "sourceId": "S3", "extrait": "ses propos sur Mao Zedong tenus dans le podcast The Bridge", "explication": "Le podcast et le mème sont mentionnés par S1 et S3.", "reformulation": null },
+      { "slide": 1, "phrase": "**3 sponsors** perdus en **2 jours**.", "statut": "orange", "sourceId": "S1", "extrait": "trois sponsors (Dongpeng, Mengniu et Milkground) ont mis fin à leur partenariat avec lui", "explication": "Les sources divergent : trois sponsors selon l'AFP (S1, S4), deux selon 24matins (S2). L'accroche présente le chiffre le plus élevé sans attribution.", "reformulation": "**2 à 3 sponsors** perdus en **2 jours**, selon les sources." },
+      { "slide": 2, "phrase": "Dans le podcast The Bridge, Kylian Mbappé évoque un mème associant son visage à des images de Mao Zedong, qu'il qualifie de « dictateur chinois ».", "statut": "vert", "sourceId": "S1", "extrait": "il plaisante sur un mème associant son visage à des images de Mao Zedong, qu'il qualifie de « dictateur chinois »", "explication": "Fait et citation présents dans S1 ; le nom du podcast figure dans S3.", "reformulation": null },
+      { "slide": 2, "phrase": "La polémique éclate au lendemain du **Ballon d'Or 2026**, remporté par Harry Kane.", "statut": "vert", "sourceId": "S2", "extrait": "La polémique survient au lendemain de la défaite de Mbappé face à Harry Kane pour le Ballon d'Or 2026.", "explication": "Confirmé par S2.", "reformulation": null },
+      { "slide": 2, "phrase": "Date : [À VÉRIFIER]", "statut": "orange", "sourceId": null, "extrait": null, "explication": "Aucune source ne date la diffusion du podcast : l'information manquante est correctement signalée, mais doit être complétée avant publication.", "reformulation": "Date : oct. 2026" },
+      { "slide": 3, "phrase": "La vidéo circule sur les réseaux sociaux et devient très commentée sur Weibo.", "statut": "vert", "sourceId": "S2", "extrait": "une vidéo qui circule sur les réseaux […] Le sujet est très commenté sur Weibo", "explication": "Confirmé par S2.", "reformulation": null },
+      { "slide": 3, "phrase": "L'AFP n'a pas pu, dans un premier temps, confirmer son authenticité.", "statut": "vert", "sourceId": "S2", "extrait": "Les services de vérification de l'AFP n'avaient pas pu, dans un premier temps, confirmer l'authenticité de la vidéo.", "explication": "Confirmé par S2.", "reformulation": null },
+      { "slide": 3, "phrase": "Certains internautes réclament des poursuites ou des dédommagements.", "statut": "vert", "sourceId": "S2", "extrait": "certaines réclamant des poursuites ou des dédommagements", "explication": "Confirmé par S2.", "reformulation": null },
+      { "slide": 4, "phrase": "**Trois partenaires**, Dongpeng, Mengniu et Milkground, mettent fin à leur collaboration, selon l'AFP.", "statut": "vert", "sourceId": "S1", "extrait": "trois sponsors (Dongpeng, Mengniu et Milkground) ont mis fin à leur partenariat avec lui", "explication": "Confirmé par S1 et S4 ; l'attribution à l'AFP conserve la nuance.", "reformulation": null },
+      { "slide": 4, "phrase": "Le groupe public CMG suspend la diffusion de ses matchs.", "statut": "vert", "sourceId": "S1", "extrait": "Le groupe audiovisuel public chinois CMG a suspendu la diffusion de ses matchs et de ses publicités", "explication": "Confirmé par S1.", "reformulation": null },
+      { "slide": 4, "phrase": "Ses comptes Weibo et Xiaohongshu n'acceptent plus de nouveaux abonnés.", "statut": "vert", "sourceId": "S3", "extrait": "Il n'est plus possible de s'abonner à ses comptes Weibo et Xiaohongshu.", "explication": "Confirmé par S3 et S5.", "reformulation": null },
+      { "slide": 4, "phrase": "La vidéo aurait cumulé **des dizaines de millions** de vues.", "statut": "rouge", "sourceId": null, "extrait": null, "explication": "Aucune source ne donne de nombre de vues. Le conditionnel ne suffit pas : l'information est introuvable.", "reformulation": null },
+      { "slide": 5, "phrase": "Mbappé s'excuse en **trois langues** : français, anglais et mandarin.", "statut": "vert", "sourceId": "S1", "extrait": "Dans un communiqué en français, en anglais et en mandarin, Mbappé s'est dit « sincèrement désolé »", "explication": "Confirmé par S1.", "reformulation": null },
+      { "slide": 5, "phrase": "La Liga, puis le Real Madrid, présentent aussi des excuses.", "statut": "vert", "sourceId": "S4", "extrait": "Le Real Madrid a présenté ses excuses à la Chine […] La Liga s'est également excusée.", "explication": "Confirmé par S1 (Liga, 27 oct.) et S4 (Real Madrid, 28 oct.).", "reformulation": null },
+      { "slide": 5, "phrase": "Le ministère chinois des Affaires étrangères dit prendre ces excuses « au sérieux ».", "statut": "vert", "sourceId": "S3", "extrait": "le ministère chinois des Affaires étrangères a déclaré prendre « au sérieux » les excuses de Kylian Mbappé", "explication": "Confirmé par S3, S4 et S5.", "reformulation": null },
+      { "slide": 5, "phrase": "Les critiques continuent en ligne.", "statut": "vert", "sourceId": "S4", "extrait": "Les critiques en ligne se poursuivent", "explication": "Confirmé par S3 et S4.", "reformulation": null },
+      { "slide": 6, "phrase": "Une plaisanterie destinée à un public peut être reçue comme une offense par un autre.", "statut": "orange", "sourceId": "S1", "extrait": "La réaction en Chine a été rapide", "explication": "Généralisation : les sources décrivent une réaction hostile en Chine, pas l'intention du joueur ni le public visé.", "reformulation": "Un contenu tourné pour un public peut circuler dans un autre contexte et y être reçu très différemment." },
+      { "slide": 6, "phrase": "Ici, les ruptures commerciales ont précédé la réponse diplomatique.", "statut": "vert", "sourceId": "S2", "extrait": "Le mardi 27 octobre 2026, deux groupes chinois […] ont annoncé la fin de leur partenariat", "explication": "Ruptures le 27 oct. (S2), déclaration du ministère le mercredi 28 (S3, S5).", "reformulation": null },
+      { "slide": 6, "phrase": "Des excuses rapides et multilingues ont ouvert une désescalade, sans éteindre les critiques en ligne.", "statut": "vert", "sourceId": "S5", "extrait": "les autorités chinoises ont montré un premier signe d'apaisement", "explication": "Analyse étayée par S1 (excuses en trois langues), S5 (apaisement) et S3/S4 (critiques persistantes).", "reformulation": null }
+    ]
+  },
+  "risque": {
+    "date": "2026-10-29T08:03:00.000Z",
+    "niveau": "moyen",
+    "synthese": "Contenu factuel, mais sujet diplomatique : la citation de la slide 2 et le chiffre de l'accroche peuvent circuler sans leur contexte.",
+    "points": [
+      { "slide": 2, "categorie": "citation hors contexte", "passage": "qu'il qualifie de « dictateur chinois »", "probleme": "Capturée seule, la slide peut être lue comme reprenant le qualificatif à notre compte, ou comme un relais de la polémique.", "suggestion": "Attribuer et contextualiser : « Ses propos sur un mème, où il qualifie Mao Zedong de « dictateur chinois », suscitent de vives réactions en Chine. »" },
+      { "slide": 1, "categorie": "chiffre sans nuance", "passage": "**3 sponsors** perdus en **2 jours**.", "probleme": "Le chiffre de l'accroche sera repris tel quel alors que les sources divergent (deux selon 24matins, trois selon l'AFP).", "suggestion": "« **2 à 3 sponsors** perdus en **2 jours**, selon les sources. »" },
+      { "slide": 6, "categorie": "prise de parti", "passage": "Une plaisanterie destinée à un public peut être reçue comme une offense par un autre.", "probleme": "Le mot « plaisanterie » peut être lu comme minimisant les propos, et « offense » comme les validant : la phrase prend implicitement position.", "suggestion": "« Un contenu tourné pour un public peut circuler dans un autre contexte et y être reçu très différemment. »" }
+    ]
+  },
+  "historique": [
+    { "date": "2026-10-29T08:00:00.000Z", "action": "Carrousel généré par l'IA rédactrice (exemple pré-chargé)" },
+    { "date": "2026-10-29T08:02:00.000Z", "action": "Relecture IA : 15/19 phrases confirmées" },
+    { "date": "2026-10-29T08:03:00.000Z", "action": "Test de risque : niveau moyen" }
+  ]
+}
