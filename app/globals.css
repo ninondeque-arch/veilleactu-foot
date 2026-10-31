@@ -250,6 +250,3 @@ table.tableau { width: 100%; border-collapse: collapse; font-size: 14px; }
 .tableau td.nb { text-align: right; font-variant-numeric: tabular-nums; }
 .tableau th.nb { text-align: right; }
 .fictif { display: inline-block; background: var(--orange-doux); color: #92400e; font-weight: 700; padding: 6px 12px; border-radius: 6px; font-size: 14px; }
-
-/* Bandeau du mode démo (mise en ligne) */
-.bandeau-demo { background: var(--nuit); color: rgba(255,255,255,0.85); text-align: center; font-size: 13px; padding: 6px 16px; }
